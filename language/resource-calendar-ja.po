@@ -1,0 +1,2240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 07:56+0900\n"
+"PO-Revision-Date: 2017-07-28 07:56+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c;_x\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: resource-calendar\n"
+
+#: resource-calendar/resource-calendar.php:129
+msgid "Log Out"
+msgstr "ログアウト"
+
+#: resource-calendar/resource-calendar.php:154
+msgid "zip"
+msgstr "郵便番号"
+
+#: resource-calendar/resource-calendar.php:155
+msgid "address"
+msgstr "住所"
+
+#: resource-calendar/resource-calendar.php:156
+#: resource-calendar/src/comp/search-component.php:23
+msgid "tel"
+msgstr "電話"
+
+#: resource-calendar/resource-calendar.php:157
+#: resource-calendar/src/comp/search-component.php:24
+msgid "mobile"
+msgstr "携帯電話"
+
+#: resource-calendar/resource-calendar.php:191
+#: resource-calendar/src/data/resource-calendar-data.php:49
+#: resource-calendar/src/page/resource-calendar-page.php:1214
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:84
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:87
+msgid "Resource"
+msgstr "対象資材"
+
+#: resource-calendar/resource-calendar.php:202
+#: resource-calendar/resource-calendar.php:203
+#: resource-calendar/src/page/bookingfront-page.php:108
+#: resource-calendar/src/page/bookingfront-page.php:576
+#: resource-calendar/src/page/bookingfront-page.php:860
+#: resource-calendar/src/page/bookingfront-page.php:1686
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:91
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:120
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:145
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:84
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:87
+msgid "Booking"
+msgstr "予約"
+
+#: resource-calendar/resource-calendar.php:211
+#: resource-calendar/resource-calendar.php:212
+msgid "Environment Setting"
+msgstr "環境設定"
+
+#: resource-calendar/resource-calendar.php:219
+#: resource-calendar/resource-calendar.php:220
+#: resource-calendar/src/page/resource-page.php:464
+msgid "Information"
+msgstr "情報"
+
+#: resource-calendar/resource-calendar.php:228
+#: resource-calendar/resource-calendar.php:229
+#: resource-calendar/src/page/log-page.php:130
+msgid "View Log"
+msgstr "ログ参照"
+
+#: resource-calendar/resource-calendar.php:237
+#: resource-calendar/resource-calendar.php:238
+msgid "Mail Setting"
+msgstr "メール設定"
+
+#: resource-calendar/resource-calendar.php:246
+#: resource-calendar/resource-calendar.php:247
+#: resource-calendar/src/page/category-page.php:189
+msgid "Setting reservation details"
+msgstr "予約詳細情報の設定"
+
+#: resource-calendar/resource-calendar.php:255
+#: resource-calendar/resource-calendar.php:256
+#: resource-calendar/src/page/reservation-page.php:753
+msgid "Reservations"
+msgstr "予約情報"
+
+#: resource-calendar/resource-calendar.php:457
+msgid "Reservation Confirm"
+msgstr "予約確定"
+
+#: resource-calendar/resource-calendar.php:590
+msgid "Resource Sample 1"
+msgstr "設備１"
+
+#: resource-calendar/resource-calendar.php:598
+msgid "Resource Sample 2"
+msgstr "設備２"
+
+#: resource-calendar/resource-calendar.php:600
+msgid "AM1,09:00,10:30;AM2,10:30,12:00;PM1,13:00,14:30;PM2,14:30,16:00"
+msgstr ""
+"午前１,09:00,10:30;午前２,10:30,12:00;午後１,13:00,14:30;午後２,14:30,16:00"
+
+#: resource-calendar/resource-calendar.php:606
+msgid "Resource Sample 3"
+msgstr "設備３"
+
+#: resource-calendar/resource-calendar.php:608
+msgid "AM,09:00,12:00;PM,13:00,15:00"
+msgstr "午前,09:00,12:00;午後,13:00,15:00"
+
+#: resource-calendar/resource-calendar.php:611
+msgid "Option"
+msgstr "オプションボタン"
+
+#: resource-calendar/resource-calendar.php:611
+msgid "opt1,opt2,opt3,opt4,opt5,opt6,opt7,opt8,opt9,opt10"
+msgstr ""
+"オプション１,オプション２,オプション３,オプション４,オプション５,オプション"
+"６,オプション７,オプション８,オプション９,オプション１０"
+
+#: resource-calendar/resource-calendar.php:612
+msgid "Check"
+msgstr "チェック項目"
+
+#: resource-calendar/resource-calendar.php:612
+msgid "Check here1,Check here2,Check here3"
+msgstr "チェック１,チェック２,チェック３"
+
+#: resource-calendar/resource-calendar.php:613
+#: resource-calendar/src/data/category-data.php:80
+msgid "Text"
+msgstr "テキスト項目"
+
+#: resource-calendar/resource-calendar.php:614
+#: resource-calendar/src/page/reservation-page.php:164
+#: resource-calendar/src/page/reservation-page.php:327
+#: resource-calendar/src/page/resource-calendar-page.php:435
+#: resource-calendar/src/page/resource-page.php:209
+msgid "Select"
+msgstr "選択"
+
+#: resource-calendar/resource-calendar.php:614
+msgid "1,2,3,4,5,6,7,8,9,10"
+msgstr "1,2,3,4,5,6,7,8,9,10"
+
+#: resource-calendar/resource-calendar.php:615
+#: resource-calendar/src/data/category-data.php:82
+#: resource-calendar/src/page/config-page.php:448
+#: resource-calendar/src/page/resource-calendar-page.php:1238
+msgid "Mail"
+msgstr "メール"
+
+#: resource-calendar/src/comp/confirm-component.php:45
+#: resource-calendar/src/page/confirm-edit.php:67
+msgid "reservation completed"
+msgstr "予約完了"
+
+#: resource-calendar/src/comp/confirm-component.php:46
+msgid "reservation temporary"
+msgstr "仮予約"
+
+#: resource-calendar/src/comp/confirm-component.php:47
+msgid "reservation canceled"
+msgstr "予約キャンセル"
+
+#: resource-calendar/src/comp/confirm-component.php:49
+msgid "no status"
+msgstr "不明な状態"
+
+#: resource-calendar/src/comp/photo-component.php:87
+msgid "NO PHOTO DATA"
+msgstr "写真なし。"
+
+#: resource-calendar/src/comp/photo-component.php:92
+#: resource-calendar/src/data/resource-calendar-data.php:518
+msgid "PHOTO DATA CAN'T DELETE"
+msgstr "写真を削除不可"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:303
+#: resource-calendar/src/page/bookingfront-page.php:1614
+#: resource-calendar/src/page/reservation-page.php:812
+msgid "Repeat"
+msgstr "繰り返し"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:307
+#, php-format
+msgid "Annually on %s, until %s"
+msgstr "毎年　%s、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:313
+#, php-format
+msgid "Every %d years on %s, until %s"
+msgstr "%d年毎　%s、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:326
+#, php-format
+msgid "Annually on %s, %d times"
+msgstr "毎年 %s、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:332
+#, php-format
+msgid "Every %d years on %s, %d times"
+msgstr "%d年毎 %s、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:347
+#, php-format
+msgid "Monthly on %d, until %s"
+msgstr "毎月　%d、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:354
+#, php-format
+msgid "Every %d months on %d, until %s"
+msgstr "%d月毎 %d、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:368
+#, php-format
+msgid "Monthly on %d, %d times"
+msgstr "毎月 %d、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:375
+#, php-format
+msgid "Every %d months on %d, %d times"
+msgstr "%d月毎 %d、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:390
+#, php-format
+msgid "Daily, until %s"
+msgstr "毎日、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:395
+#, php-format
+msgid "Every %d days, until %s"
+msgstr "%d日毎、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:407
+#, php-format
+msgid "Daily, %d times"
+msgstr "毎日、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:412
+#, php-format
+msgid "Every %d days, %d times"
+msgstr "%d日毎、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:423
+#: resource-calendar/src/page/bookingfront-page.php:236
+#: resource-calendar/src/page/reservation-page.php:69
+#: resource-calendar/src/page/resource-calendar-page.php:830
+#: resource-calendar/src/page/resource-calendar-page.php:1096
+#: resource-calendar/tests/10booking/booking-over24-02Test.php:60
+#: resource-calendar/tests/10booking/booking-repeat04Test.php:61
+msgid ""
+"\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\","
+"\"Saturday\""
+msgstr ""
+"\"日曜日\",\"月曜日\",\"火曜日\",\"水曜日\",\"木曜日\",\"金曜日\",\"土曜日\""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:434
+#, php-format
+msgid "Weekly on %s, until %s"
+msgstr "毎週 %s、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:440
+#, php-format
+msgid "Every %d weeks on %s, until %s"
+msgstr "%d週毎 %s、%sまで"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:453
+#, php-format
+msgid "Weekly on %s, %d times"
+msgstr "毎週 %s、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:459
+#, php-format
+msgid "Every %d weeks on %s, %d times"
+msgstr "%d週毎 %s、%d回"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:494
+#: resource-calendar/src/page/booking-get-month.php:67
+#: resource-calendar/src/page/bookingfront-page.php:990
+#: resource-calendar/src/page/bookingfront-page.php:1426
+msgid "Temporary Reservation"
+msgstr "仮予約"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:498
+#: resource-calendar/src/page/bookingfront-page.php:1429
+msgid "Canceled Reservation"
+msgstr "予約キャンセル"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:501
+#: resource-calendar/src/page/booking-get-month.php:64
+#: resource-calendar/src/page/bookingfront-page.php:986
+#: resource-calendar/src/page/bookingfront-page.php:1423
+msgid "Completed Reservation"
+msgstr "予約完了"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:509
+msgid "exec"
+msgstr "確定"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:510
+msgid "inserted"
+msgstr "登録"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:511
+msgid "updated"
+msgstr "更新"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:512
+msgid "canceled"
+msgstr "キャンセル"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:514
+#, php-format
+msgid "Action:%s Satus:%s"
+msgstr "登録変更:%s 状態:%s"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:562
+msgid "Updates cannot be performed on the demo site. "
+msgstr "デモサイトでは、更新はできません。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:565
+#, php-format
+msgid "%s Completed successfully."
+msgstr "%s 正常に終了しました。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:568
+#, php-format
+msgid "%s An unexpected error has occurred %s"
+msgstr ""
+"%s 予期せぬエラーが発生しましたため、処理を中断します。\n"
+"%s"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:571
+#, php-format
+msgid "The open time of this reservation has already passed.[%s]"
+msgstr "この予約は開始時間が過ぎています。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:577
+#, php-format
+msgid "This update may be an invalid request.[%s]"
+msgstr "この更新は、不正なリクエストの可能性があります。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:580
+#, php-format
+msgid "%s This field is mandatory.[%s]"
+msgstr "%s この項目は必須項目です。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:583
+#, php-format
+msgid "%s Please review the time setting.[%s]"
+msgstr "%s 時間の設定を見直してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:586
+#, php-format
+msgid "%s Please input using numerals.[%s]"
+msgstr "%s 数字で入力してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:589
+#, php-format
+msgid "%s Please input the postal code as XXXX-XXX.[%s]"
+msgstr "%s 郵便番号は、XXXX-XXXか７桁で入力してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:592
+#, php-format
+msgid "%s Please input the phone number using numerals.[%s]"
+msgstr "%s 電話番号は数字で入力してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:595
+#, php-format
+msgid ""
+"%s Please input the mail address in the following format: XXX@XXX.XXX[%s]"
+msgstr "%s メールアドレスはXXX@XXX.XXXの形式で入力してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:598
+#, php-format
+msgid "%s Please input the date as MM/DD/YYYY or MMDDYYYY.[%s]"
+msgstr "%s YYYY/MM/DDかYYYYMMDDの形式で入力してください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:601
+#, php-format
+msgid "%s This date does not exist.[%s]"
+msgstr "%s 存在しない日付です。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:604
+#, php-format
+msgid "%s Please enter a space between the last and first names.[%s]"
+msgstr "%s 姓と名の間には空白を入れてください。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:607
+#, php-format
+msgid "%s Please input in %d characters or less.[%s]"
+msgstr "%s %d文字以内で入力してください[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:610
+msgid "Reservation cannot be made for this time frame."
+msgstr "この時間帯は予約できません。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:613
+#, php-format
+msgid "%s There is an error in the time settings.[%s] [%s]"
+msgstr "%s データがおかしいようです[%s] [%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:616
+msgid "Please confirm the valid period."
+msgstr "有効期間を確認してください。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:619
+#, php-format
+msgid "%s This value need  %s <= this value <= %s [%s]"
+msgstr "%s %s以上%s以下の範囲で入力してください。 [%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:622
+#, php-format
+msgid "%s Please input in the following format:NAME<XXX@XXX.XXX>"
+msgstr "%s 以下の形式で入力してください。名前<XXX@XXX.XXX>"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:625
+#, php-format
+msgid "%s \"Mail\" of \"field type\" is already registered"
+msgstr "%s メール項目は予約詳細情報でひとつのみ登録可能です。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:631
+msgid "The time setting is out of range."
+msgstr "時刻の設定が範囲外です。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:634
+msgid ""
+"The reservation may be overlapping with another reservation. Please perform "
+"the operation again after refreshing the display."
+msgstr ""
+"この予約は他の操作により更新されています。再表示をした上で再操作をしてくださ"
+"い。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:637
+msgid "The process will be terminated for an unexpected error has occurred."
+msgstr "予期せぬエラーが発生しましたため、処理を中断します。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:640
+#, php-format
+msgid "There is a problem with the data.[%s]"
+msgstr "データがおかしいようです。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:643
+#, php-format
+msgid "Database error has occurred.[%s][%s]"
+msgstr ""
+"ＤＢエラーが発生しました。\n"
+"エラー内容:%s\n"
+"SQL:%s"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:646
+#, php-format
+msgid "File error[%s]"
+msgstr "ファイルのオープンでエラーが発生しました。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:649
+msgid "There is no target data."
+msgstr "対象データがありません。"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:652
+#, php-format
+msgid "An error occurred in the mail sending operation.[%s]"
+msgstr "メール送信操作でエラーが発生しました。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:658
+#, php-format
+msgid ""
+"This reservation has been updated by another operation. Please perform the "
+"operation again after refreshing the display.[%s]"
+msgstr ""
+"この予約は他の操作により更新されています。再表示をした上で再操作をしてくださ"
+"い。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:661
+#, php-format
+msgid "This reservation does not exist.[%s]"
+msgstr "この予約は存在しません。[%s]"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:664
+msgid "This message is not found"
+msgstr "該当メッセージなし"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:744
+#: resource-calendar/src/page/resource-calendar-page.php:1826
+#: resource-calendar/src/page/resource-edit.php:29
+msgid "(?<month>\\d{1,2})[\\/\\.\\-](?<day>\\d{1,2})[\\/\\.\\-](?<year>\\d{4})"
+msgstr ""
+"(?<year>\\d{4})[\\/\\.\\-](?<month>\\d{1,2})[\\/\\.\\-](?<day>\\d{1,2})"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:745
+#: resource-calendar/src/page/resource-calendar-page.php:1827
+#: resource-calendar/src/page/resource-edit.php:30
+msgid "(?<month>\\d{2})(?<day>\\d{2})(?<year>\\d{4})"
+msgstr "(?<year>\\d{4})(?<month>\\d{2})(?<day>\\d{2})"
+
+#: resource-calendar/src/comp/resource-calendar-component.php:757
+#: resource-calendar/src/data/resource-calendar-data.php:90
+#: resource-calendar/src/data/resource-calendar-data.php:91
+#: resource-calendar/src/page/bookingfront-page.php:468
+#: resource-calendar/src/page/bookingfront-page.php:524
+#: resource-calendar/src/page/bookingfront-page.php:643
+#: resource-calendar/src/page/bookingfront-page.php:846
+#: resource-calendar/src/page/bookingfront-page.php:882
+#: resource-calendar/src/page/bookingfront-page.php:901
+#: resource-calendar/src/page/reservation-page.php:196
+#: resource-calendar/src/page/reservation-page.php:252
+#: resource-calendar/src/page/reservation-page.php:386
+#: resource-calendar/src/page/reservation-page.php:735
+#: resource-calendar/src/page/resource-calendar-page.php:727
+msgid "%m/%d/%Y"
+msgstr "%Y/%m/%d"
+
+#: resource-calendar/src/comp/resource-component.php:94
+#: resource-calendar/src/comp/resource-component.php:97
+msgid "PHOTO IMAGE CAN'T COPY"
+msgstr "写真データコピー不可。"
+
+#: resource-calendar/src/comp/search-component.php:15
+#: resource-calendar/src/page/resource-calendar-page.php:824
+msgid "close"
+msgstr "終了"
+
+#: resource-calendar/src/comp/search-component.php:21
+#: resource-calendar/src/page/resource-calendar-page.php:2388
+msgid "No"
+msgstr "No"
+
+#: resource-calendar/src/comp/search-component.php:22
+#: resource-calendar/src/page/confirm-page.php:69
+msgid "name"
+msgstr "名前"
+
+#: resource-calendar/src/comp/search-component.php:25
+msgid "mail"
+msgstr "メール"
+
+#: resource-calendar/src/control/resource-calendar-control.php:44
+msgid "invalid request"
+msgstr "何かしら予期せぬリクエスト"
+
+#: resource-calendar/src/control/resource-calendar-control.php:51
+msgid "no class file"
+msgstr "クラスファイルがありません"
+
+#: resource-calendar/src/control/resource-calendar-control.php:54
+msgid "no class "
+msgstr "クラスなし"
+
+#: resource-calendar/src/data/booking-data.php:46
+#: resource-calendar/src/data/booking-data.php:47
+#: resource-calendar/src/data/config-data.php:22
+#: resource-calendar/src/data/log-data.php:22
+#: resource-calendar/src/data/resource-calendar-data.php:152
+#: resource-calendar/src/data/resource-calendar-data.php:159
+#: resource-calendar/src/data/resource-calendar-data.php:160
+#: resource-calendar/src/data/resource-calendar-data.php:211
+#: resource-calendar/src/data/resource-calendar-data.php:216
+#: resource-calendar/src/data/resource-calendar-data.php:217
+#: resource-calendar/src/page/booking-edit.php:319
+#, php-format
+msgid "%%m/%%d/%%Y"
+msgstr "%%Y/%%m/%%d"
+
+#: resource-calendar/src/data/booking-data.php:336
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s.(1) "
+msgstr ""
+"\n"
+"%sによりキャンセルされました。 (1)"
+
+#: resource-calendar/src/data/booking-data.php:336
+#: resource-calendar/src/data/booking-data.php:365
+msgid "[Screen of Booking]"
+msgstr "[予約確認画面]"
+
+#: resource-calendar/src/data/booking-data.php:365
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s.(2) "
+msgstr ""
+"\n"
+"%sによりキャンセルされました。 (2)"
+
+#: resource-calendar/src/data/category-data.php:78
+msgid "Radio Button"
+msgstr "ラジオボタン"
+
+#: resource-calendar/src/data/category-data.php:79
+msgid "Check Box"
+msgstr "チェックボックス"
+
+#: resource-calendar/src/data/category-data.php:81
+msgid "Select Box"
+msgstr "選択ボックス"
+
+#: resource-calendar/src/data/config-data.php:20
+#: resource-calendar/src/page/config-edit.php:109
+#: resource-calendar/src/page/config-page.php:435
+msgid "Special holiday"
+msgstr "特別に休む"
+
+#: resource-calendar/src/data/config-data.php:21
+#: resource-calendar/src/page/config-edit.php:110
+#: resource-calendar/src/page/config-page.php:434
+#: resource-calendar/src/page/resource-calendar-page.php:794
+msgid "Business day"
+msgstr "営業"
+
+#: resource-calendar/src/data/confirm-data.php:40
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s. "
+msgstr ""
+"\n"
+"%sによりキャンセルされました。 "
+
+#: resource-calendar/src/data/confirm-data.php:40
+msgid "[Screen of Confirm]"
+msgstr "[予約確認画面]"
+
+#: resource-calendar/src/data/resource-calendar-data.php:34
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Please confirm this reservation.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"Click the following URL\n"
+"{X-URL}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"{X-SHOP_ADDRESS}\n"
+"{X-SHOP_TEL}\n"
+"{X-SHOP_MAIL}"
+msgstr ""
+" {X-TO_NAME} 様\n"
+"\n"
+"以降のURLをクリックして表示される画面で、予約を確定してください。\n"
+"{X-URL}\n"
+"\n"
+"対象:{X-TO_RESOURCE} \n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"住所：{X-SHOP_ADDRESS}\n"
+"電話：{X-SHOP_TEL}\n"
+"メール：{X-SHOP_MAIL}"
+
+#: resource-calendar/src/data/resource-calendar-data.php:35
+msgid ""
+"Confirm this reservation.\n"
+"\n"
+"Customer Name:{X-TO_NAME}\n"
+"Status:{X-TO_STATUS}\n"
+"Resource:{X-TO_RESOURCE}\n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+msgstr ""
+"予約を確認してください。\n"
+"\n"
+"お客様名:{X-TO_NAME}\n"
+"状態:{X-TO_STATUS}\n"
+"対象:{X-TO_RESOURCE}\n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}\n"
+
+#: resource-calendar/src/data/resource-calendar-data.php:36
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Thank you for the reservation.\n"
+"Your reservation was confirmed.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"{X-SHOP_ADDRESS}\n"
+"{X-SHOP_TEL}\n"
+"{X-SHOP_MAIL}"
+msgstr ""
+" {X-TO_NAME} 様\n"
+"\n"
+"以下の予約が完了しました。\n"
+"\n"
+"対象:{X-TO_RESOURCE} \n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"住所：{X-SHOP_ADDRESS}\n"
+"電話：{X-SHOP_TEL}\n"
+"メール：{X-SHOP_MAIL}"
+
+#: resource-calendar/src/data/resource-calendar-data.php:37
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Thank you for the reservation.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"Please note that your reservation is not complete until confirmed by the "
+"admin,\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"{X-SHOP_ADDRESS}\n"
+"{X-SHOP_TEL}\n"
+"{X-SHOP_MAIL}"
+msgstr ""
+" {X-TO_NAME} 様\n"
+"\n"
+"予約ありがとうございます。\n"
+"以下の予約を受けつけました。\n"
+"この予約は仮予約となります。\n"
+"予約を確定しましたら再度メールいたします。\n"
+"\n"
+"対象:{X-TO_RESOURCE} \n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"住所：{X-SHOP_ADDRESS}\n"
+"電話：{X-SHOP_TEL}\n"
+"メール：{X-SHOP_MAIL}"
+
+#: resource-calendar/src/data/resource-calendar-data.php:38
+msgid ""
+"The reservation was updated.\n"
+"\n"
+"Status:{X-TO_STATUS}  \n"
+"Customer Name:{X-TO_NAME} \n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}"
+msgstr ""
+"予約に変更がありました。\n"
+"\n"
+"{X-TO_STATUS}  \n"
+"お客様名:{X-TO_NAME} \n"
+"対象:{X-TO_RESOURCE} \n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}"
+
+#: resource-calendar/src/data/resource-calendar-data.php:39
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Your reservation was canceled.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"{X-SHOP_ADDRESS}\n"
+"{X-SHOP_TEL}\n"
+"{X-SHOP_MAIL}"
+msgstr ""
+"{X-TO_NAME} 様\n"
+"\n"
+"予約のキャンセルを受け付けました。\n"
+"\n"
+"対象:{X-TO_RESOURCE} \n"
+"日時:{X-TO_TIME}\n"
+"備考:{X-TO_REMARK}\n"
+"\n"
+"{X-SHOP_NAME}\n"
+"{X-SHOP_ADDRESS}\n"
+"{X-SHOP_TEL}\n"
+"{X-SHOP_MAIL}"
+
+#: resource-calendar/src/data/resource-calendar-data.php:40
+msgid "Confirm Reservation"
+msgstr "予約確認"
+
+#: resource-calendar/src/data/resource-calendar-data.php:41
+msgid "Confirm Reservation(Admin)"
+msgstr "予約確認(管理者）"
+
+#: resource-calendar/src/data/resource-calendar-data.php:42
+msgid "Your reservation was comfirmed"
+msgstr "予約完了"
+
+#: resource-calendar/src/data/resource-calendar-data.php:43
+msgid "Thank you for the reservation"
+msgstr "予約ありがとうございます"
+
+#: resource-calendar/src/data/resource-calendar-data.php:44
+msgid "Information of the reservation"
+msgstr "予約情報"
+
+#: resource-calendar/src/data/resource-calendar-data.php:45
+msgid "Your reservation was canceled"
+msgstr "予約キャンセル"
+
+#: resource-calendar/src/data/resource-calendar-data.php:144
+msgid "No name"
+msgstr "名称未設定"
+
+#: resource-calendar/src/data/resource-data.php:125
+msgid "Input time unit"
+msgstr "時間単位の入力"
+
+#: resource-calendar/src/data/resource-data.php:126
+msgid "Input pre-determined time frames"
+msgstr "あらかじめ決めた時間帯の入力"
+
+#: resource-calendar/src/page/booking-edit.php:158
+msgid "Check reserved time "
+msgstr "予約時間を確認してください"
+
+#: resource-calendar/src/page/booking-edit.php:166
+#: resource-calendar/src/page/resource-calendar-page.php:728
+#, php-format
+msgid "Your reservation is possible from %s."
+msgstr "%s以降に開始する時間帯で予約可能"
+
+#: resource-calendar/src/page/booking-edit.php:166
+msgid "m/d/Y"
+msgstr "Y/m/d"
+
+#: resource-calendar/src/page/booking-edit.php:171
+#: resource-calendar/src/page/booking-edit.php:188
+#, php-format
+msgid "The future times can not reserved. please less than %s days "
+msgstr "%s日以内で予約をしてください"
+
+#: resource-calendar/src/page/booking-edit.php:182
+msgid "Check repeat starts or ends "
+msgstr "繰り返しの開始または終了日を確認してください"
+
+#: resource-calendar/src/page/booking-edit.php:211
+#: resource-calendar/src/page/resource-calendar-page.php:1274
+msgid "Starts on"
+msgstr "開始"
+
+#: resource-calendar/src/page/booking-edit.php:220
+msgid "Ends on"
+msgstr "終了"
+
+#: resource-calendar/src/page/booking-edit.php:239
+msgid "The reservation is completed"
+msgstr "予約完了"
+
+#: resource-calendar/src/page/booking-edit.php:245
+msgid ""
+"The reservation has not yet been completed. A Reservation Complete mail will "
+"be sent after an administrator has confirmed it."
+msgstr ""
+"予約はまだ完了していません。管理者が確認をしましたら、予約完了メールを送信い"
+"たします。"
+
+#: resource-calendar/src/page/booking-edit.php:251
+#: resource-calendar/src/page/booking-edit.php:258
+msgid ""
+"The reservation has not yet been completed. Please open \\\"Confirm "
+"Reservation Screen\\\" from the mail which was sent and confirm the "
+"reservation."
+msgstr ""
+"予約はまだ完了していません。お送りしたメールから予約確定画面を開き、予約を確"
+"定してください。"
+
+#: resource-calendar/src/page/booking-edit.php:328
+msgid ""
+"But When the day meets the conditions for Repeat and there is already a "
+"registered reservation, the registered reservation will be given precedence. "
+"The message which will be displayed in such cases is shown below."
+msgstr ""
+"下記日付では、他の登録済みの予約が優先あるいは予約不可の日のため、該当時間帯"
+"には予約できませんでした。該当日付の予約を確認してください。"
+
+#: resource-calendar/src/page/booking-get-reservation.php:46
+msgid "Date is out of ranges."
+msgstr "日付が範囲外"
+
+#: resource-calendar/src/page/bookingfront-page.php:118
+msgid "Search"
+msgstr "検索"
+
+#: resource-calendar/src/page/bookingfront-page.php:179
+#: resource-calendar/src/page/resource-calendar-page.php:794
+#: resource-calendar/src/page/resource-calendar-page.php:910
+msgid "Holiday"
+msgstr "休み"
+
+#: resource-calendar/src/page/bookingfront-page.php:237
+#: resource-calendar/src/page/reservation-page.php:70
+msgid "\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\""
+msgstr "\"日\",\"月\",\"火\",\"水\",\"木\",\"金\",\"土\""
+
+#: resource-calendar/src/page/bookingfront-page.php:252
+#: resource-calendar/src/page/bookingfront-page.php:1361
+msgid "Completed Reservations"
+msgstr "予約完了"
+
+#: resource-calendar/src/page/bookingfront-page.php:255
+#: resource-calendar/src/page/bookingfront-page.php:1364
+msgid "Temporary Reservations"
+msgstr "仮予約"
+
+#: resource-calendar/src/page/bookingfront-page.php:439
+#: resource-calendar/src/page/reservation-page.php:277
+msgid "Edit recurring event"
+msgstr "定期的な予約を編集"
+
+#: resource-calendar/src/page/bookingfront-page.php:444
+#: resource-calendar/src/page/reservation-page.php:282
+msgid "Only"
+msgstr "この予約のみ"
+
+#: resource-calendar/src/page/bookingfront-page.php:448
+#: resource-calendar/src/page/reservation-page.php:286
+msgid "All"
+msgstr "すべての予約"
+
+#: resource-calendar/src/page/bookingfront-page.php:452
+#: resource-calendar/src/page/reservation-page.php:290
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: resource-calendar/src/page/bookingfront-page.php:498
+#: resource-calendar/src/page/reservation-page.php:226
+msgid "weeks"
+msgstr "週"
+
+#: resource-calendar/src/page/bookingfront-page.php:500
+#: resource-calendar/src/page/reservation-page.php:228
+msgid "days"
+msgstr "日"
+
+#: resource-calendar/src/page/bookingfront-page.php:503
+#: resource-calendar/src/page/reservation-page.php:231
+msgid "months"
+msgstr "月"
+
+#: resource-calendar/src/page/bookingfront-page.php:506
+#: resource-calendar/src/page/reservation-page.php:234
+msgid "years"
+msgstr "年"
+
+#: resource-calendar/src/page/bookingfront-page.php:610
+#: resource-calendar/src/page/reservation-page.php:529
+msgid "This reservation delete ?"
+msgstr "予約をキャンセルしてよろしいですか。"
+
+#: resource-calendar/src/page/bookingfront-page.php:635
+#: resource-calendar/src/page/bookingfront-page.php:1577
+#: resource-calendar/src/page/reservation-page.php:98
+#: resource-calendar/src/page/reservation-page.php:772
+#: resource-calendar/src/page/resource-calendar-page.php:481
+#: resource-calendar/src/page/resource-calendar-page.php:1215
+msgid "select please"
+msgstr "選択してください"
+
+#: resource-calendar/src/page/bookingfront-page.php:1008
+msgid "Reservation Update"
+msgstr "予約更新"
+
+#: resource-calendar/src/page/bookingfront-page.php:1418
+msgid "Register"
+msgstr "予約中"
+
+#: resource-calendar/src/page/bookingfront-page.php:1483
+msgid "Settings here"
+msgstr "管理画面はこちらから"
+
+#: resource-calendar/src/page/bookingfront-page.php:1484
+msgid "Logout here"
+msgstr "ログアウトはこちらから"
+
+#: resource-calendar/src/page/bookingfront-page.php:1486
+msgid "Please try settings."
+msgstr "以下のユーザIDとパスワードで管理画面での設定を試してみてください"
+
+#: resource-calendar/src/page/bookingfront-page.php:1487
+msgid "Login"
+msgstr "ログイン"
+
+#: resource-calendar/src/page/bookingfront-page.php:1488
+msgid "Username"
+msgstr "ログイン"
+
+#: resource-calendar/src/page/bookingfront-page.php:1489
+msgid "Password"
+msgstr "パスワード"
+
+#: resource-calendar/src/page/bookingfront-page.php:1500
+#: resource-calendar/src/page/resource-calendar-page.php:1257
+msgid "MM/DD/YYYY"
+msgstr "YYYY/MM/DD"
+
+#: resource-calendar/src/page/bookingfront-page.php:1507
+msgid "Today"
+msgstr "今日"
+
+#: resource-calendar/src/page/bookingfront-page.php:1558
+#: resource-calendar/src/page/config-page.php:97
+#: resource-calendar/src/page/resource-calendar-page.php:1256
+#: resource-calendar/src/page/resource-calendar-page.php:1426
+#: resource-calendar/src/page/resource-calendar-page.php:1692
+msgid "Date"
+msgstr "日付"
+
+#: resource-calendar/src/page/bookingfront-page.php:1562
+#: resource-calendar/src/page/reservation-page.php:765
+msgid "Status"
+msgstr "状況"
+
+#: resource-calendar/src/page/bookingfront-page.php:1596
+#: resource-calendar/src/page/reservation-page.php:785
+msgid "TargetTime"
+msgstr "時刻"
+
+#: resource-calendar/src/page/bookingfront-page.php:1619
+#: resource-calendar/src/page/reservation-page.php:817
+#: resource-calendar/src/page/resource-calendar-page.php:1268
+msgid "Repeats"
+msgstr "繰り返し"
+
+#: resource-calendar/src/page/bookingfront-page.php:1622
+#: resource-calendar/src/page/reservation-page.php:820
+msgid "Daily"
+msgstr "日"
+
+#: resource-calendar/src/page/bookingfront-page.php:1623
+#: resource-calendar/src/page/reservation-page.php:821
+msgid "Weekly"
+msgstr "週"
+
+#: resource-calendar/src/page/bookingfront-page.php:1624
+#: resource-calendar/src/page/reservation-page.php:822
+msgid "Monthly"
+msgstr "月"
+
+#: resource-calendar/src/page/bookingfront-page.php:1625
+#: resource-calendar/src/page/reservation-page.php:823
+msgid "Yearly"
+msgstr "年"
+
+#: resource-calendar/src/page/bookingfront-page.php:1631
+#: resource-calendar/src/page/reservation-page.php:829
+#: resource-calendar/src/page/resource-calendar-page.php:1286
+msgid "Repeat every"
+msgstr "繰り返す間隔"
+
+#: resource-calendar/src/page/bookingfront-page.php:1645
+#: resource-calendar/src/page/reservation-page.php:843
+#: resource-calendar/src/page/resource-calendar-page.php:1292
+msgid "Repeat on"
+msgstr "曜日"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "sun"
+msgstr "日"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "mon"
+msgstr "月"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "tue"
+msgstr "火"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "wed"
+msgstr "水"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "thr"
+msgstr "木"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "fri"
+msgstr "金"
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+#: resource-calendar/src/page/reservation-page.php:847
+#: resource-calendar/src/page/resource-calendar-page.php:1086
+msgid "sat"
+msgstr "土"
+
+#: resource-calendar/src/page/bookingfront-page.php:1660
+#: resource-calendar/src/page/reservation-page.php:858
+#: resource-calendar/src/page/resource-calendar-page.php:1280
+#: resource-calendar/src/page/resource-calendar-page.php:1298
+msgid "Ends"
+msgstr "終了"
+
+#: resource-calendar/src/page/bookingfront-page.php:1663
+#: resource-calendar/src/page/reservation-page.php:861
+msgid "After"
+msgstr " "
+
+#: resource-calendar/src/page/bookingfront-page.php:1664
+#: resource-calendar/src/page/reservation-page.php:863
+msgid "occurrences"
+msgstr "　回繰り返した後"
+
+#: resource-calendar/src/page/bookingfront-page.php:1673
+#: resource-calendar/src/page/reservation-page.php:871
+msgid "On"
+msgstr " "
+
+#: resource-calendar/src/page/bookingfront-page.php:1687
+msgid "Booking Cancel"
+msgstr "予約キャンセル"
+
+#: resource-calendar/src/page/bookingfront-page.php:1688
+msgid "Close"
+msgstr "終了"
+
+#: resource-calendar/src/page/bookingfront-page.php:1700
+#: resource-calendar/src/page/reservation-page.php:888
+msgid "Change only this reservation, or all reservations in the series ?"
+msgstr "この予約だけを変更しますか？すべての予約を変更しますか？"
+
+#: resource-calendar/src/page/category-page.php:104
+#: resource-calendar/src/page/log-page.php:48
+#: resource-calendar/src/page/log-page.php:108
+#: resource-calendar/src/page/reservation-page.php:376
+#: resource-calendar/src/page/resource-calendar-page.php:234
+#: resource-calendar/src/page/resource-page.php:267
+msgid "Hide Details"
+msgstr "詳細を隠す"
+
+#: resource-calendar/src/page/category-page.php:192
+#: resource-calendar/src/page/config-page.php:436
+#: resource-calendar/src/page/reservation-page.php:756
+#: resource-calendar/src/page/resource-page.php:467
+#: resource-calendar/src/page/resource-page.php:484
+msgid "Add"
+msgstr "追加"
+
+#: resource-calendar/src/page/category-page.php:193
+#: resource-calendar/src/page/config-page.php:383
+#: resource-calendar/src/page/reservation-page.php:757
+#: resource-calendar/src/page/resource-page.php:468
+#: resource-calendar/src/page/resource-page.php:486
+msgid "Update"
+msgstr "更新"
+
+#: resource-calendar/src/page/category-page.php:194
+#: resource-calendar/src/page/reservation-page.php:758
+#: resource-calendar/src/page/resource-page.php:469
+msgid "Clear"
+msgstr "クリア"
+
+#: resource-calendar/src/page/category-page.php:202
+msgid "please select"
+msgstr "選択してください"
+
+#: resource-calendar/src/page/config-edit.php:38
+#: resource-calendar/src/page/resource-calendar-page.php:1366
+msgid "Open Time"
+msgstr "開始時刻"
+
+#: resource-calendar/src/page/config-edit.php:38
+#: resource-calendar/src/page/resource-calendar-page.php:1372
+msgid "Close Time"
+msgstr "終了時刻"
+
+#: resource-calendar/src/page/config-edit.php:63
+#: resource-calendar/src/page/config-edit.php:71
+#: resource-calendar/src/page/resource-calendar-page.php:1099
+#: resource-calendar/tests/21adminError/config-error01Test.php:163
+msgid " Detailed time schedule of "
+msgstr "休日詳細"
+
+#: resource-calendar/src/page/config-page.php:98
+#: resource-calendar/src/page/resource-calendar-page.php:1386
+msgid "Irregular business days and holidays"
+msgstr "不定期な営業日／休み"
+
+#: resource-calendar/src/page/config-page.php:380
+msgid "Environment settings"
+msgstr "環境設定"
+
+#: resource-calendar/src/page/config-page.php:405
+msgid "Anyone"
+msgstr "制限なし"
+
+#: resource-calendar/src/page/config-page.php:406
+msgid "Registered user"
+msgstr "会員登録されたユーザのみ"
+
+#: resource-calendar/src/page/config-page.php:412
+msgid "Confirmation by an administrator"
+msgstr "管理者による確定"
+
+#: resource-calendar/src/page/config-page.php:413
+msgid "No confirm"
+msgstr "即確定"
+
+#: resource-calendar/src/page/config-page.php:414
+msgid "Confirmation via user mail"
+msgstr "利用者がメールにより確定"
+
+#: resource-calendar/src/page/config-page.php:422
+msgid "Minute"
+msgstr "分"
+
+#: resource-calendar/src/page/config-page.php:423
+msgid "Hour"
+msgstr "時間"
+
+#: resource-calendar/src/page/config-page.php:424
+msgid "Day"
+msgstr "日"
+
+#: resource-calendar/src/page/config-page.php:446
+#: resource-calendar/src/page/resource-calendar-page.php:1220
+#: resource-calendar/src/page/resource-calendar-page.php:1330
+#: resource-calendar/src/page/resource-calendar-page.php:1477
+msgid "Name"
+msgstr "名前"
+
+#: resource-calendar/src/page/config-page.php:447
+#: resource-calendar/src/page/resource-calendar-page.php:1231
+msgid "Tel"
+msgstr "電話"
+
+#: resource-calendar/src/page/confirm-edit.php:68
+msgid "reservation deleted"
+msgstr "予約キャンセル"
+
+#: resource-calendar/src/page/confirm-page.php:70
+msgid "reserved day"
+msgstr "予約日時"
+
+#: resource-calendar/src/page/confirm-page.php:71
+msgid "reserved menu"
+msgstr "予約内容"
+
+#: resource-calendar/src/page/confirm-page.php:72
+#: resource-calendar/src/page/resource-calendar-page.php:1669
+msgid "Remark"
+msgstr "備考"
+
+#: resource-calendar/src/page/confirm-page.php:73
+msgid "status"
+msgstr "状況"
+
+#: resource-calendar/src/page/confirm-page.php:82
+msgid "Create Reservation"
+msgstr "予約確定"
+
+#: resource-calendar/src/page/confirm-page.php:83
+#: resource-calendar/src/page/confirm-page.php:88
+#: resource-calendar/src/page/confirm-page.php:125
+msgid "Cancel Reservation"
+msgstr "キャンセル"
+
+#: resource-calendar/src/page/confirm-page.php:84
+msgid "Reservation Completed ?"
+msgstr "予約を確定します。"
+
+#: resource-calendar/src/page/confirm-page.php:102
+msgid "Are you sure you want to cancel the reservation?"
+msgstr "予約をキャンセルしてもよいですか？"
+
+#: resource-calendar/src/page/log-page.php:49
+#: resource-calendar/src/page/log-page.php:53
+#: resource-calendar/src/page/resource-calendar-page.php:233
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#: resource-calendar/src/page/log-page.php:136
+msgid "Redisplay"
+msgstr "再表示"
+
+#: resource-calendar/src/page/mail-page.php:147
+msgid "Mail Settings"
+msgstr "メール設定"
+
+#: resource-calendar/src/page/mail-page.php:150
+msgid "update"
+msgstr "更新"
+
+#: resource-calendar/src/page/mail-page.php:158
+msgid "Confirmation mail"
+msgstr "確認メール"
+
+#: resource-calendar/src/page/mail-page.php:159
+#: resource-calendar/src/page/resource-calendar-page.php:1590
+msgid "Confirmation mail (admin)"
+msgstr "確認メール（管理者）"
+
+#: resource-calendar/src/page/mail-page.php:160
+#: resource-calendar/src/page/resource-calendar-page.php:1591
+msgid "Reservation complete mail"
+msgstr "予約完了メール"
+
+#: resource-calendar/src/page/mail-page.php:161
+#: resource-calendar/src/page/resource-calendar-page.php:1593
+msgid "Reservation canceled mail"
+msgstr "予約キャンセルメール"
+
+#: resource-calendar/src/page/mail-page.php:162
+#: resource-calendar/src/page/resource-calendar-page.php:1592
+msgid "Reservation receipt mail"
+msgstr "予約受付メール"
+
+#: resource-calendar/src/page/mail-page.php:163
+msgid "Notification mail to staff"
+msgstr "スタッフへのお知らせメール"
+
+#: resource-calendar/src/page/mail-page.php:167
+msgid "Confirmation mail "
+msgstr "確認メール"
+
+#: resource-calendar/src/page/mail-page.php:168
+msgid ""
+"Mail valid when \"Confirmation via user mail\" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"user who made the reservation."
+msgstr ""
+"「予約確定方法」が「利用者がメールにより確定」を選択している場合、有効なメー"
+"ルです。予約した利用者に送信するメールの内容になります。"
+
+#: resource-calendar/src/page/mail-page.php:169
+msgid "Confirmation mail (admin) "
+msgstr "確認メール（管理者）"
+
+#: resource-calendar/src/page/mail-page.php:170
+msgid ""
+"Mail valid when \"Confirmation by an administrator \" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"person with WordPress administrator privileges."
+msgstr ""
+"「予約確定方法」が「管理者による確定」を選択している場合、有効なメールです。"
+"Wordpressでの「管理者」権限を持つ人に送信するメールの内容になります。"
+
+#: resource-calendar/src/page/mail-page.php:171
+msgid "Reservation complete mail "
+msgstr "予約完了メール"
+
+#: resource-calendar/src/page/mail-page.php:172
+#: resource-calendar/src/page/mail-page.php:174
+msgid "Content is for the mail sent to the user. "
+msgstr "利用者に送信するメールの内容になります。"
+
+#: resource-calendar/src/page/mail-page.php:173
+msgid "Reservation canceled mail "
+msgstr "予約キャンセルメール"
+
+#: resource-calendar/src/page/mail-page.php:175
+msgid "Reservation receipt mail "
+msgstr "予約受付メール"
+
+#: resource-calendar/src/page/mail-page.php:176
+msgid ""
+"Mail valid when \"Confirmation by an administrator \" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"user. "
+msgstr ""
+"「予約確定方法」が「管理者による確定」を選択している場合、有効なメールです。"
+"利用者に送信するメールの内容になります。"
+
+#: resource-calendar/src/page/mail-page.php:177
+msgid "Notification mail to staff "
+msgstr "スタッフへのお知らせメール"
+
+#: resource-calendar/src/page/mail-page.php:178
+msgid ""
+"Mail content sent to the address set for \"Notification mail recipient\". "
+"Sent when reservation is registered, updated, or canceled."
+msgstr ""
+"「お知らせメールの宛先」に設定したメールアドレスに送信するメールの内容になり"
+"ます。予約が登録・更新・キャンセルされた場合に送信します。"
+
+#: resource-calendar/src/page/photo-edit.php:34
+msgid "FILE TYPE ERROR(1)"
+msgstr "jpg,gif,pngファイルのみ設定可能(1)"
+
+#: resource-calendar/src/page/photo-edit.php:37
+msgid "FILE MAX SIZE ERROR("
+msgstr "ファイルの最大サイズ(10M)を超えている？"
+
+#: resource-calendar/src/page/photo-edit.php:42
+msgid "FILE TYPE ERROR(2)"
+msgstr "jpg,gif,pngファイルのみ設定可能(2)"
+
+#: resource-calendar/src/page/photo-edit.php:47
+msgid "FILE TYPE ERROR(3)"
+msgstr "jpg,gif,pngファイルのみ設定可能(3)"
+
+#: resource-calendar/src/page/reservation-page.php:174
+#: resource-calendar/src/page/reservation-page.php:327
+#: resource-calendar/src/page/resource-calendar-page.php:433
+#: resource-calendar/src/page/resource-page.php:209
+msgid "Delete "
+msgstr "削除"
+
+#: resource-calendar/src/page/resource-calendar-page.php:98
+msgid ""
+"There is an inconsistency between the set \\\"Input time unit\\\" and \\"
+"\"Open/Close time\\\"."
+msgstr "「入力時間単位」と「開始時刻」「終了時刻」との間に矛盾があります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:269
+msgid "Display _MENU_ records per page"
+msgstr "表示行数 _MENU_ 件"
+
+#: resource-calendar/src/page/resource-calendar-page.php:270
+msgid "Next Page"
+msgstr "次のページ"
+
+#: resource-calendar/src/page/resource-calendar-page.php:271
+msgid "Prev Page"
+msgstr "前のページ"
+
+#: resource-calendar/src/page/resource-calendar-page.php:272
+msgid "Showing _START_ to _END_ of _TOTAL_ records"
+msgstr "全_TOTAL_件中 _START_件から_END_件を表示"
+
+#: resource-calendar/src/page/resource-calendar-page.php:273
+msgid "search"
+msgstr "検索"
+
+#: resource-calendar/src/page/resource-calendar-page.php:274
+msgid "No data available in table"
+msgstr "該当データなし"
+
+#: resource-calendar/src/page/resource-calendar-page.php:275
+msgid "Loading..."
+msgstr "取得中"
+
+#: resource-calendar/src/page/resource-calendar-page.php:276
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "データがありません"
+
+#: resource-calendar/src/page/resource-calendar-page.php:277
+msgid "No matching records found"
+msgstr "検索文字列に該当するデータなし"
+
+#: resource-calendar/src/page/resource-calendar-page.php:327
+#: resource-calendar/src/page/resource-calendar-page.php:1448
+msgid "Operation"
+msgstr "操作"
+
+#: resource-calendar/src/page/resource-calendar-page.php:366
+msgid "change"
+msgstr "変更"
+
+#: resource-calendar/src/page/resource-calendar-page.php:367
+msgid "cancel"
+msgstr "キャンセル"
+
+#: resource-calendar/src/page/resource-calendar-page.php:368
+msgid "click edit"
+msgstr "クリックすると更新可"
+
+#: resource-calendar/src/page/resource-calendar-page.php:434
+msgid "Delete ok?"
+msgstr "を削除します"
+
+#: resource-calendar/src/page/resource-calendar-page.php:692
+#: resource-calendar/src/page/resource-calendar-page.php:1936
+msgid "(\\d{1,2})[\\/\\.\\-](\\d{1,2})[\\/\\.\\-](\\d{4})"
+msgstr "(\\d{4})[\\/\\.\\-](\\d{1,2})[\\/\\.\\-](\\d{1,2})"
+
+#: resource-calendar/src/page/resource-calendar-page.php:692
+#: resource-calendar/src/page/resource-calendar-page.php:1936
+msgid "(\\d{2})(\\d{2})(\\d{4})"
+msgstr "(\\d{4})(\\d{2})(\\d{2})"
+
+#: resource-calendar/src/page/resource-calendar-page.php:693
+#: resource-calendar/src/page/resource-calendar-page.php:1937
+msgid "RegExp.$3"
+msgstr "RegExp.$1"
+
+#: resource-calendar/src/page/resource-calendar-page.php:694
+#: resource-calendar/src/page/resource-calendar-page.php:1938
+msgid "RegExp.$1"
+msgstr "RegExp.$2"
+
+#: resource-calendar/src/page/resource-calendar-page.php:695
+#: resource-calendar/src/page/resource-calendar-page.php:1939
+msgid "RegExp.$2"
+msgstr "RegExp.$3"
+
+#: resource-calendar/src/page/resource-calendar-page.php:699
+#: resource-calendar/src/page/resource-calendar-page.php:1943
+msgid "this day not exist?"
+msgstr "存在しない日では"
+
+#: resource-calendar/src/page/resource-calendar-page.php:825
+msgid "prevText: \"&#x3C;\""
+msgstr "前: \"&#x3C;\""
+
+#: resource-calendar/src/page/resource-calendar-page.php:826
+msgid "nextText: \"&#x3E;\""
+msgstr "次: \"&#x3E;\""
+
+#: resource-calendar/src/page/resource-calendar-page.php:827
+msgid "today"
+msgstr "今日"
+
+#: resource-calendar/src/page/resource-calendar-page.php:828
+#: resource-calendar/src/page/resource-calendar-page.php:829
+msgid ""
+"\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct"
+"\",\"Nov\",\"Dec\""
+msgstr ""
+"\"1月\",\"2月\",\"3月\",\"4月\",\"5月\",\"6月\",\"7月\",\"8月\",\"9月\",\"10"
+"月\",\"11月\",\"12月\""
+
+#: resource-calendar/src/page/resource-calendar-page.php:831
+#: resource-calendar/src/page/resource-calendar-page.php:832
+#, fuzzy
+msgid "\"Su\",\"Mo\",\"Tu\",\"We\",\"Th\",\"Fr\",\"Sa\""
+msgstr "\"日\",\"月\",\"火\",\"水\",\"木\",\"金\",\"土\""
+
+#: resource-calendar/src/page/resource-calendar-page.php:833
+msgid "week"
+msgstr "週"
+
+#: resource-calendar/src/page/resource-calendar-page.php:834
+msgid "mm/dd/yy"
+msgstr "yy/mm/dd"
+
+#: resource-calendar/src/page/resource-calendar-page.php:839
+msgid "yearSuffix:\"\" "
+msgstr "yearSuffix:\"年\" "
+
+#: resource-calendar/src/page/resource-calendar-page.php:907
+msgid "Half-holiday"
+msgstr "半休"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1099
+msgid "is on Holiday"
+msgstr "の時間帯を休み"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1221
+#: resource-calendar/src/page/resource-calendar-page.php:2019
+msgid "space input between first-name and last-name"
+msgstr "姓と名に空白を"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1232
+#: resource-calendar/src/page/resource-calendar-page.php:1902
+msgid "Please input in 15 characters or less."
+msgstr "15文字以内で設定します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1239
+msgid "The allowed formats for XXX@XXX.XXX"
+msgstr "XXX@XXX.XXXの形式で入力します"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1244
+msgid "Start"
+msgstr "開始時刻"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1250
+msgid "End"
+msgstr "終了時間"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1263
+#: resource-calendar/src/page/resource-calendar-page.php:1275
+#: resource-calendar/src/page/resource-calendar-page.php:1281
+#: resource-calendar/src/page/resource-calendar-page.php:1693
+#: resource-calendar/src/page/resource-calendar-page.php:1947
+msgid "please MM/DD/YYYY or MMDDYYYY format"
+msgstr "YYYY/MM/DDかYYYYMMDDで"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1269
+msgid ""
+"please select. Week repeats will be repeated with the start of the week "
+"(Sunday) as the starting point."
+msgstr "週の繰り返しでは、週初め（日曜日）を起点として繰り返します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1306
+msgid "Seq"
+msgstr "順番"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1317
+msgid "Setting the reservation time"
+msgstr "予約時間の設定方法"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1318
+msgid ""
+"\\\"Input time unit\\\" -> Setting for allowing the user to input a time.\\"
+"\"Input pre-determined time frames\\\" -> The user is able to select from "
+"time frames decided by the administrator. Selecting this item displays the "
+"following input selections. "
+msgstr ""
+"「時間単位の入力」は利用者に時間を入力してもらう設定となります。「あらかじめ"
+"決めた時間帯の入力」は、利用者は管理者が決めた時間帯を選択可能になります。こ"
+"の項目を選択すると以下に入力枠が表示されます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1323
+msgid "Management target name"
+msgstr "管理対象の名前"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1324
+msgid ""
+"Set the name of the management target, such as \\\"Equipment,\\\" \\"
+"\"Resource,\\\" etc. For example, enter \\\"Conference rooms\\\" if managing "
+"reservations for multiple conference rooms. "
+msgstr ""
+"「設備」「資材」等の管理対象の名称を設定します。例えば、複数ある会議室の予約"
+"を管理するのであれば「会議室」などを設定します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1341
+msgid "Selection item name"
+msgstr "選択項目名"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1342
+msgid ""
+"The name of the item selected by the user. For example, set \\\"Morning 1\\"
+"\" and \\\"Morning 2\\\" to break the morning into two time frames (10:00 – "
+"11:00 and 11:00 – 12:00)"
+msgstr ""
+"利用者が選択する項目名となります。例えば、午前中を２つの時間帯（10:00～11:00"
+"と11:00～12:00）に分ける場合、「午前１」と「午前２」とそれぞれ追加設定しま"
+"す。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1349
+msgid "Your address"
+msgstr "運営者の住所"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1350
+msgid "Please input in 300 characters or less. Embedded when an mail is sent. "
+msgstr "300文字以内で設定します。メールを送信する場合に埋め込みます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1355
+msgid "Contact telephone number"
+msgstr "運営者の電話番号"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1356
+msgid "Please input in 15 characters or less. Embedded when an mail is sent. "
+msgstr "15文字以内で設定します。メールを送信する場合に埋め込みます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1359
+msgid "Contact mail"
+msgstr "運営者のメールアドレス"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1360
+msgid ""
+"The allowed formats for \\\"XXX@XXX.XXX\\\". Embedded when an mail is sent. "
+msgstr "「XXX@XXX.XXX」形式で設定します。メールを送信する場合に埋め込みます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1367
+#: resource-calendar/src/page/resource-calendar-page.php:1373
+msgid ""
+"The allowed formats for \\\"HH:MM\\\" or \\\"HHMM\\\". Set the reservation "
+"handling time for the management target.Input in 24 hour time format."
+msgstr ""
+"管理対象の予約取扱い時間を「HH:MM」又は「HHMM」の形式で入力します。24時間表記"
+"で入力します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1374
+msgid ""
+"When \\\"Close time\\\" is later than midnight, set the time by adding the "
+"time past midnight to 24. For example, if you want to handle 6:00PM to "
+"3:00AM the following day, set \\\"Open time\\\" as 18:00 and \\\"Close time\\"
+"\" as 27:00."
+msgstr ""
+"終了時刻が午前０時を超える場合は、超える時間に24加算して設定します。例えば、"
+"18時～翌日の午前3時を取扱い時間にしたい場合、開始時刻に18:00、終了時刻に27:00"
+"を入力します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1380
+msgid "Input time unit (minutes)"
+msgstr "入力時間単位（分）"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1381
+msgid ""
+"The unit of selection for time when a user makes a reservation. For example, "
+"setting this to 15 will result in options for 10:00, 10:15, etc. Setting 30 "
+"will result in options for 10:00, 10:30, etc. "
+msgstr ""
+"利用者が予約する場合の時間の選択単位になります。例えば１５を指定した場合、１"
+"０：００、１０：１５・・・となりますし、３０を指定した場合、１０：００、１"
+"０：３０・・・となります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1387
+msgid ""
+"After inputting the date, select \\\"Business day\\\" \\\"Special holiday\\"
+"\" and click the \\\"Add\\\" button. "
+msgstr ""
+"日付を設定後、「営業」又は「特別に休む」を選択し、「追加」ボタンをクリックし"
+"てください。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1392
+msgid "Off days"
+msgstr "定休日"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1393
+msgid ""
+"Specify the day of the week for off days for each week. Settings for special "
+"holidays such as the New Year's holiday or off days that will be treated as "
+"business days are configured \\\"Irregular business days and holidays\\\". "
+"In cases where, for example, Saturdays will be treated as half business "
+"days, checking the off day will display a detailed time schedule to allow "
+"specific settings for that day."
+msgstr ""
+"週単位での定休日を曜日で指定します。年末年始等の特別な休みや定休日だが営業す"
+"る日などの設定は、下の「不定期な営業日／休み」で設定します。また、土曜日は午"
+"後を休みにしたい場合などは、定休日をチェックすると表示される該当曜日の詳細時"
+"間にて設定します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1397
+msgid "Detailed message output"
+msgstr "メッセージ詳細出力"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1398
+msgid ""
+"Check to display detailed error information. Check to acquire information in "
+"the event of a diagnostic request."
+msgstr ""
+"チェックすると、エラーの詳細情報表示を行います。解析依頼の際は、チェックして"
+"情報を取得します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1402
+msgid "Sequence of Sur Name and Given Name"
+msgstr "姓と名の順番"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1403
+msgid "please select Sur Name First or Given Name first"
+msgstr "姓名の表記順番"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1408
+msgid "Before X date"
+msgstr "X日前"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1409
+#: resource-calendar/src/page/resource-calendar-page.php:1415
+msgid ""
+"Specify the default display range for reservation data. The standard is to "
+"use the access date. Set to a range that reflects actual use (for example, "
+"reservations up to one month or one year) as setting X to a large value can "
+"result in response lag."
+msgstr ""
+"予約データを初期表示する際の範囲を指定します。操作日を基準にしています。Xを大"
+"きな値にするとレスポンスが悪くなりますので、実状に会った範囲（１年後の予約ま"
+"である、１月もあれば十分、過去分は1日でよいなど）にします。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1414
+msgid "After X date"
+msgstr "X日後"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1420
+msgid "Calendar size "
+msgstr "カレンダーの大きさ"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1421
+msgid ""
+"Set the size for the displayed calendars. Up to three are displayed. In some "
+"cases, only one calendar is displayed depending on the theme due to having a "
+"narrow display area.For example, only one can be displayed when themes are "
+"at 100%. Setting to 80% will allow two to be displayed. "
+msgstr ""
+"表示するカレンダーの大きさをパーセントで設定します。最大で3つまで表示されま"
+"す。テーマによっては表示幅が狭いためにカレンダーが1つのみの場合があります。例"
+"えばテーマ「TwentyFifteen」などは100%では１つしか表示されません。80%にすると"
+"２つ表示になります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1427
+msgid "Logged date "
+msgstr "記録日"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1437
+#: resource-calendar/src/page/resource-calendar-page.php:1681
+msgid "Time"
+msgstr "時間"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1438
+msgid "Logged time"
+msgstr "時間"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1449
+msgid "the operation to tables"
+msgstr "データ更新内容"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1459
+#: resource-calendar/src/page/resource-calendar-page.php:1517
+msgid "Remarks"
+msgstr "備考"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1460
+msgid "REMOTE_ADDR,REFERER"
+msgstr "REMOTE_ADDRとREFERER"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1471
+msgid "Reservation cutoff time"
+msgstr "予約締切時間"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1472
+msgid ""
+"Specify up to when reservations can be made in minutes, hours, or days. "
+"Setting 0 means that the user can cancel or change the reservation up to "
+"immediately prior to the reservation. Setting to 30 minutes means that, for "
+"example, with a 10 o\\’clock appointment, cancellation or changes are "
+"possible up to 9:30."
+msgstr ""
+"予約をいつまで可能にするかを分、時間又は日で設定します。０分を設定すると予約"
+"開始直前のキャンセルや変更が可能となります。３０分を設定すると、１０時からの"
+"予約は、９時３０分まで可能になります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1478
+msgid ""
+"Please input in 50 characters or less. Set the name of the individual "
+"management target. For example, for reservation management for \\"
+"\"Conference rooms\\\", input the actual conference room name, such as \\"
+"\"Conference Room A\\\", \\\"Conference Room B\\\", etc. "
+msgstr ""
+"50文字以内で設定します。個々の管理対象の名称を設定します。例えば「会議室」を"
+"予約管理するのであれば、実際の会議室名「α会議室」「β会議室」などを設定しま"
+"す。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1488
+msgid "Your name"
+msgstr "運営者の名称"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1489
+msgid "Please input in 50 characters or less. Embedded when an mail is sent."
+msgstr "50文字以内で設定します。メールを送信する場合に埋め込みます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1496
+msgid "Valid period (from) "
+msgstr "有効期間（自）"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1497
+#: resource-calendar/src/page/resource-calendar-page.php:1507
+msgid "Input if the management target has a valid period."
+msgstr "管理対象に有効期間がある場合設定します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1506
+msgid "Valid period (to)"
+msgstr "有効期間（至）"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1518
+#: resource-calendar/src/page/resource-calendar-page.php:1670
+msgid "Please input in 300 characters or less."
+msgstr "300文字以内"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1528
+msgid "Max setting"
+msgstr "同時予約可能数"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1529
+msgid "How many set in the same time"
+msgstr "同時に予約できる数"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1534
+msgid "Reservation confirmation method"
+msgstr "予約確定方法"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1535
+msgid ""
+"\\\"Confirmation by an administrator\\\":At the point that a user makes a "
+"reservation, this is treated as a temporary reservation. The reservation is "
+"confirmed when a person with WordPress administrator privileges updates the "
+"reservation. \\\"No confirm\\\":The reservation is confirmed when made by "
+"the user. \\\"Confirmation via user mail\\\":At the point that a user makes "
+"a reservation, this is treated as a temporary reservation. A link to the "
+"reservation confirmation screen is displayed in the mail sent to the user. "
+"The reservation is confirmed when the user uses the link to open the "
+"reservation confirmation page."
+msgstr ""
+"「管理者による確定」→利用者が予約した段階では、仮予約となります。Wordpressで"
+"「管理者」権限を持つ人が該当予約を更新することにより予約確定となります。「即"
+"確定」→利用者が予約した段階で確定となります。「利用者がメールにより確定」→利"
+"用者が予約した段階では、仮予約となります。利用者に送るメール内に予約確定画面"
+"へのリンクが示されています。利用者は該当リンクを元に予約確定画面を開いて予約"
+"を確定します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1540
+msgid "Privileges allowing reservations"
+msgstr "予約可能な権限"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1541
+msgid ""
+"\\\"Anyone\\\":Anyone can make a reservation. \\\"Registered user\\\":Only "
+"the user registered WordPress can make a reservation."
+msgstr ""
+"「制限なし」→誰でも予約可能となります。「会員登録されたユーザのみ」→Wordprss"
+"で登録されたユーザのみ予約可能となります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1547
+msgid "Mail text"
+msgstr "メールの文面"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1548
+#: resource-calendar/src/page/resource-calendar-page.php:1554
+msgid ""
+"Actual values are embedded into the \\\"{}\\\" portion of {X-TO_NAME} "
+"(referred to as \\\"embedded text\\\"). You may delete {X-SHOP_NAME}{X-"
+"SHOP_ADDRESS}{X-SHOP_TEL}{X-SHOP_MAIL} but do not delete any other embedded "
+"text. "
+msgstr ""
+"{X-TO_NAME}（以下、「埋込文字」という）の「{}」の部分に実際の値を埋め込みま"
+"す。{X-SHOP_NAME}{X-SHOP_ADDRESS}{X-SHOP_TEL}{X-SHOP_MAIL}は削除可能ですが、"
+"それ以外の埋込文字は削除しないでください。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1553
+msgid "Mail text to staff member"
+msgstr "スタッフへのお知らせメールの文面"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1570
+msgid "Mail title"
+msgstr "メールのタイトル"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1571
+#: resource-calendar/src/page/resource-calendar-page.php:1577
+msgid "Please input in 78 characters or less. Title of sent message."
+msgstr "78文字以内で。送信するメッセージのタイトルとなります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1576
+msgid "The subject of the mail to staff member"
+msgstr "スタッフへのお知らせメールのタイトル"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1598
+msgid "Mail header (From) "
+msgstr "メールヘッダ（Ｆｒｏｍ）"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1599
+msgid ""
+"Set the mail header FROM section using the format name <XXX@XXX.XXX>. If not "
+"set, then the \\\"WordPress\\\" default is used."
+msgstr ""
+"メーヘッダのＦｒｏｍ部分を名前<メールアドレス>の形式で設定します。設定しない"
+"場合、WordPressのデフォルトとなります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1606
+msgid "Mail header (ReturnPath)"
+msgstr "メールヘッダ（ＲｅｔｕｒｎＰａｔｈ）"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1607
+msgid ""
+"Set the mail header ReturnPath section using the mail address format(XXX@XXX."
+"XXX). If not set, then the \\\"WordPress\\\" default is used."
+msgstr ""
+"メールヘッダのＲｅｔｕｒｎＰａｔｈ部分をメールアドレスの形式で設定します。設"
+"定しない場合、WordPressのデフォルトとなります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1613
+msgid "Mail selection"
+msgstr "メール選択"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1614
+msgid "Select the following mail to set the content for each mail. "
+msgstr ""
+"以下のメールを選択し、各メール内容を設定します。メール毎に文面が異なります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1620
+msgid "Notification mail recipient"
+msgstr "お知らせメールの宛先"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1621
+msgid ""
+"Set the mail address.If the setting plurality of mail addresses, separated "
+"by commas"
+msgstr "予約登録・変更のお知らせメールの宛先をカンマ区切りで設定する。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1626
+msgid "Use session id"
+msgstr "セッションIDを使用する"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1627
+msgid ""
+"If the message \\\"This update may be an invalid request. \\\" is displayed "
+"even though you are simply updating, try unchecking this check box. It is "
+"possible that there is a conflict with another plugin."
+msgstr ""
+"単純に更新しているだけなのに、「この更新は、不正なリクエストの可能性がありま"
+"す。」のメッセージが表示される場合は、このチェックを外してみてください。他の"
+"プラグインとの競合が考えられます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1632
+msgid "Use reservation details"
+msgstr "予約詳細情報の使用"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1633
+msgid ""
+"If you want to have additional details input in the target resource, check "
+"this. Updating with this check activated will cause \\\"Set reservation "
+"details\\\" to be displayed on the menu, and the details of the fields you "
+"want to input can be registered. Possible details include the following."
+msgstr ""
+"対象資材で詳細情報を追加で入力してもらいたい場合に、チェックします。この"
+"チェックを有効にした上で更新すると、メニューに「予約詳細情報の設定」が表示さ"
+"れ、入力してもらいたい項目の詳細情報の登録ができます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1638
+msgid "Selection of mandatory fields"
+msgstr "必須項目にする"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1639
+msgid ""
+"To make name, phone number, and mail mandatory fields to input when making a "
+"reservation, check this."
+msgstr ""
+"予約時に名前、電話、メールの各項目を必須入力項目とする場合、チェックします。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1644
+msgid "Field name"
+msgstr "項目の名称"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1645
+msgid "The label of the field to be set."
+msgstr "設定する項目の見出しとなります。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1654
+msgid "Field type"
+msgstr "項目の種類"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1655
+msgid ""
+"The format of the field to be set. You can select from radio button, check "
+"box, text, or select box. If radio button, check box, or select box is "
+"selected, input \\\"field value\\\""
+msgstr ""
+"設定する項目の形式となります。ラジオボタン、チェックボックス、テキスト、セレ"
+"クトボックスのいずれかを選択できます。ラジオボタン、チェックボックス、セレク"
+"トボックスを選択した場合は、「項目の値」を入力します。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1664
+msgid "Field value"
+msgstr "項目の値"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1665
+msgid ""
+"If radio button, check box or select box were selected in \\\"Field type\\\" "
+"above, set the display name of each field separated by commas. It is "
+"possible to update the \\\"Field values\\\", but please do not change the "
+"order of the fields or delete them after operation has started. For example, "
+"if you wish to change the number of microphones to 2 after initially "
+"registering equipment to be used as \\\"projector, microphone, whiteboard\\"
+"\", change it to \\\"projector, microphone 1, whiteboard, microphone 2\\\". "
+"Please do not change the order of the fields to \\\"projector, microphone 1, "
+"microphone 2, whiteboard\\\"."
+msgstr ""
+"上記「項目の種類」で、ラジオボタン、チェックボックス、セレクトボックスを選択"
+"した場合に、各項目の表示名をカンマ区切りで設定します。「項目の値」は更新する"
+"ことが可能ですが、運用開始後は項目の順番は変えたり、削除はしないでください。"
+"例えば、使用する備品として、「プロジェクター,マイク,白板」を初期登録した後、"
+"マイクを２つにしたい場合は、「プロジェクター,マイク１,白板、マイク２」としま"
+"す。「プロジェクター,マイク１,マイク２、白板」と項目の順番を変えないでくださ"
+"い。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1808
+#: resource-calendar/src/page/resource-calendar-page.php:1893
+msgid "^\\d{5}(?:[-\\s]\\d{4})?$"
+msgstr "^(?:\\d{3}\\-\\d{4})$|^(?:\\d{7})$"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1875
+msgid "please enter"
+msgstr "必須項目"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1881
+msgid "please enter numeric"
+msgstr "数値で"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1888
+msgid "please full width enter"
+msgstr "すべて全角文字で"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1894
+msgid "please XXXXX-XXXX format"
+msgstr "郵便暗号はXXX－XXXXの形式で"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1908
+msgid "Please input the mail address in the following format: XXX@XXX.XXX"
+msgstr "メールアドレスはXXX@XXX.XXXの形式で入力してください。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1915
+#: resource-calendar/src/page/resource-calendar-page.php:1926
+msgid ""
+"Please either separate the time with a colon (:) or enter it as a 4 digit "
+"number."
+msgstr "時間はコロン（：）で区切るか数字４桁で入力してください。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1918
+msgid "The maximum time which can be set is 23:59."
+msgstr "時刻は最大23:59まで設定できます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1929
+msgid ""
+"The maximum time which can be set is 47:59. Setting the time to 47:59 means "
+"23:59 the following day."
+msgstr ""
+"時刻は最大47:59まで設定できます。47:59を設定した場合は翌日の23:59の意味となり"
+"ます。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1958
+msgid "within charactors"
+msgstr "文字以内"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1970
+msgid "greater than"
+msgstr "以上"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1973
+msgid "within"
+msgstr "以内"
+
+#: resource-calendar/src/page/resource-calendar-page.php:1994
+msgid "select one or more"
+msgstr "のいずれかを入力"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2010
+msgid "please check"
+msgstr "ひとつはチェック"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2027
+msgid "up"
+msgstr "上"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2028
+msgid "down"
+msgstr "下"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2477
+msgid "(1) Please copy and paste this tag to insert to the page"
+msgstr "(1)固定ページにこのタグをコピー＆ペーストして挿入してください"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2478
+msgid ""
+"(2) After installing, \"Reservation Confirm\" is added to \"Pages\".Do not "
+"delete this. You may change the title."
+msgstr ""
+"(2)インストールするとWordPressの「固定ページ」に「予約確定画面」が追加されま"
+"す。このページは削除しないでください。タイトルは変更可能です。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2479
+msgid "(3) The \"Reservation Confirm\" is not displayed in the front screen."
+msgstr "(3)「予約確定画面」は、フロント画面には表示されません。"
+
+#: resource-calendar/src/page/resource-calendar-page.php:2480
+msgid ""
+"(4) Sample data has been registered. It is a good idea to first use the "
+"sample data."
+msgstr ""
+"(4)サンプルデータを登録しています。まずはサンプルデータを使用して、試してみる"
+"のがよいと思います。"
+
+#: resource-calendar/src/page/resource-edit.php:63
+msgid "from >= to "
+msgstr "開始時間≧終了時間"
+
+#: resource-calendar/src/page/resource-edit.php:78
+msgid "overlaped time "
+msgstr "設定している時間が重複"
+
+#: resource-calendar/src/page/resource-page.php:114
+msgid "FILE TYPE ERROR"
+msgstr "jpg,gif,pngファイルのみ設定可能"
+
+#: resource-calendar/src/page/resource-page.php:122
+msgid "Drop files here to upload"
+msgstr "アップロードするファイルをここにドラッグ"
+
+#: resource-calendar/src/page/resource-page.php:123
+msgid "File is too big ({{filesize}}MB). Max filesize: {{maxFilesize}}MB."
+msgstr ""
+"ファイル({{filesize}}MB)が大きすぎます。最大ファイルサイズ: {{maxFilesize}}"
+"MB."
+
+#: resource-calendar/src/page/resource-page.php:124
+msgid "You can't upload files of this type."
+msgstr "jpg,gif,pngファイルのみ設定可能です。"
+
+#: resource-calendar/src/page/resource-page.php:125
+msgid "Delete"
+msgstr "削除"
+
+#: resource-calendar/src/page/resource-page.php:126
+msgid "Your browser does not support drag&drop file uploads."
+msgstr "お使いのブラウザはアップロードの機能に対応していないようです。"
+
+#: resource-calendar/src/page/resource-page.php:127
+msgid "You can only upload {{maxFiles}} files."
+msgstr "最大 {{maxFiles}} ファイルまでアップロード可能"
+
+#: resource-calendar/src/page/resource-page.php:236
+msgid ""
+"Photo data has been uploaded or deleted, but no addition/update has been "
+"conducted. Do you want to continue?"
+msgstr ""
+"写真のデータがアップロードまたは削除されましたが、追加・更新されていません。"
+"続行しますか？"
+
+#: resource-calendar/src/page/resource-page.php:367
+msgid "Original select data is empty"
+msgstr "選択できるデータがありません"
+
+#: resource-calendar/src/page/resource-page.php:451
+msgid "Photos<br> Drop files here or click here and select files"
+msgstr ""
+"写真（複数可能）<br> ここにドラッグ＆ドロップするか、クリック後ファイルを選択"
+"する。"
+
+#: resource-calendar/src/page/resource-page.php:481
+msgid "Selected time"
+msgstr "選択した時間"
+
+#~ msgid "Resource Calendar enables the reservation of resources."
+#~ msgstr "設備や資材などを予約するためのプラグインです。"

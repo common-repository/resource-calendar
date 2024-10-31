@@ -1,0 +1,1982 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-12-12 09:41+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-SearchPath-0: resource-calendar\n"
+
+#: resource-calendar/resource-calendar.php:127
+msgid "Log Out"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:152
+msgid "zip"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:153
+msgid "address"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:154
+#: resource-calendar/src/comp/search-component.php:23
+msgid "tel"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:155
+#: resource-calendar/src/comp/search-component.php:24
+msgid "mobile"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:188
+#: resource-calendar/src/data/resource-calendar-data.php:49
+#: resource-calendar/src/page/resource-calendar-page.php:1190
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:83
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:86
+msgid "Resource"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:199
+#: resource-calendar/resource-calendar.php:200
+#: resource-calendar/src/page/bookingfront-page.php:107
+#: resource-calendar/src/page/bookingfront-page.php:566
+#: resource-calendar/src/page/bookingfront-page.php:847
+#: resource-calendar/src/page/bookingfront-page.php:1778
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:91
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:120
+#: resource-calendar/tests/10booking/bookingfront-pageTest.php:145
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:83
+#: resource-calendar/tests/99last/ZZZresource-calendar1Test.php:86
+msgid "Booking"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:208
+#: resource-calendar/resource-calendar.php:209
+msgid "Environment Setting"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:216
+#: resource-calendar/resource-calendar.php:217
+#: resource-calendar/src/page/resource-page.php:464
+msgid "Information"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:225
+#: resource-calendar/resource-calendar.php:226
+#: resource-calendar/src/page/log-page.php:129
+msgid "View Log"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:234
+#: resource-calendar/resource-calendar.php:235
+msgid "Mail Setting"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:243
+#: resource-calendar/resource-calendar.php:244
+#: resource-calendar/src/page/category-page.php:186
+msgid "Setting reservation details"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:430
+msgid "Reservation Confirm"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:563
+msgid "Resource Sample 1"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:571
+msgid "Resource Sample 2"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:573
+msgid "AM1,09:00,10:30;AM2,10:30,12:00;PM1,13:00,14:30;PM2,14:30,16:00"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:579
+msgid "Resource Sample 3"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:581
+msgid "AM,09:00,12:00;PM,13:00,15:00"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:584
+msgid "Option"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:584
+msgid "opt1,opt2,opt3,opt4,opt5,opt6,opt7,opt8,opt9,opt10"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:585
+msgid "Check"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:585
+msgid "Check here1,Check here2,Check here3"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:586
+#: resource-calendar/src/data/category-data.php:80
+msgid "Text"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:587
+#: resource-calendar/src/page/resource-calendar-page.php:434
+#: resource-calendar/src/page/resource-page.php:209
+msgid "Select"
+msgstr ""
+
+#: resource-calendar/resource-calendar.php:587
+msgid "1,2,3,4,5,6,7,8,9,10"
+msgstr ""
+
+#: resource-calendar/src/comp/confirm-component.php:45
+#: resource-calendar/src/page/confirm-edit.php:61
+msgid "reservation completed"
+msgstr ""
+
+#: resource-calendar/src/comp/confirm-component.php:46
+msgid "reservation temporary"
+msgstr ""
+
+#: resource-calendar/src/comp/confirm-component.php:47
+msgid "reservation canceled"
+msgstr ""
+
+#: resource-calendar/src/comp/confirm-component.php:49
+msgid "no status"
+msgstr ""
+
+#: resource-calendar/src/comp/photo-component.php:87
+#: resource-calendar/src/data/resource-calendar-data.php:381
+msgid "NO PHOTO DATA"
+msgstr ""
+
+#: resource-calendar/src/comp/photo-component.php:92
+#: resource-calendar/src/data/resource-calendar-data.php:386
+#: resource-calendar/src/data/resource-calendar-data.php:454
+msgid "PHOTO DATA CAN'T DELETE"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:276
+#: resource-calendar/src/page/bookingfront-page.php:1706
+msgid "Repeat"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:280
+#, php-format
+msgid "Annually on %s, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:286
+#, php-format
+msgid "Every %d years on %s, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:299
+#, php-format
+msgid "Annually on %s, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:305
+#, php-format
+msgid "Every %d years on %s, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:319
+#, php-format
+msgid "Monthly on %d, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:325
+#, php-format
+msgid "Every %d months on %d, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:338
+#, php-format
+msgid "Monthly on %d, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:344
+#, php-format
+msgid "Every %d months on %d, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:358
+#, php-format
+msgid "Daily, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:363
+#, php-format
+msgid "Every %d days, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:375
+#, php-format
+msgid "Daily, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:380
+#, php-format
+msgid "Every %d days, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:391
+#: resource-calendar/src/page/bookingfront-page.php:235
+#: resource-calendar/src/page/resource-calendar-page.php:806
+#: resource-calendar/src/page/resource-calendar-page.php:1072
+#: resource-calendar/tests/10booking/booking-over24-02Test.php:60
+#: resource-calendar/tests/10booking/booking-repeat04Test.php:61
+msgid ""
+"\"Sunday\",\"Monday\",\"Tuesday\",\"Wednesday\",\"Thursday\",\"Friday\","
+"\"Saturday\""
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:402
+#, php-format
+msgid "Weekly on %s, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:408
+#, php-format
+msgid "Every %d weeks on %s, until %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:421
+#, php-format
+msgid "Weekly on %s, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:427
+#, php-format
+msgid "Every %d weeks on %s, %d times"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:462
+#: resource-calendar/src/page/booking-get-month.php:67
+#: resource-calendar/src/page/bookingfront-page.php:977
+#: resource-calendar/src/page/bookingfront-page.php:1481
+msgid "Temporary Reservation"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:466
+#: resource-calendar/src/page/bookingfront-page.php:1484
+msgid "Canceled Reservation"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:469
+#: resource-calendar/src/page/booking-get-month.php:64
+#: resource-calendar/src/page/bookingfront-page.php:973
+#: resource-calendar/src/page/bookingfront-page.php:1478
+msgid "Completed Reservation"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:477
+msgid "exec"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:478
+msgid "inserted"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:479
+msgid "updated"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:480
+msgid "canceled"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:482
+#, php-format
+msgid "Action:%s Satus:%s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:521
+msgid "Updates cannot be performed on the demo site. "
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:524
+#, php-format
+msgid "%s Completed successfully."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:527
+#, php-format
+msgid "%s An unexpected error has occurred %s"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:530
+#, php-format
+msgid "The open time of this reservation has already passed.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:536
+#, php-format
+msgid "This update may be an invalid request.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:539
+#, php-format
+msgid "%s This field is mandatory.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:542
+#, php-format
+msgid "%s Please review the time setting.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:545
+#, php-format
+msgid "%s Please input using numerals.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:548
+#, php-format
+msgid "%s Please input the postal code as XXXX-XXX.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:551
+#, php-format
+msgid "%s Please input the phone number using numerals.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:554
+#, php-format
+msgid ""
+"%s Please input the mail address in the following format: XXX@XXX.XXX[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:557
+#, php-format
+msgid "%s Please input the date as MM/DD/YYYY or MMDDYYYY.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:560
+#, php-format
+msgid "%s This date does not exist.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:563
+#, php-format
+msgid "%s Please enter a space between the last and first names.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:566
+#, php-format
+msgid "%s Please input in %d characters or less.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:569
+msgid "Reservation cannot be made for this time frame."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:572
+#, php-format
+msgid "%s There is an error in the time settings.[%s] [%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:575
+msgid "Please confirm the valid period."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:578
+#, php-format
+msgid "%s This value need  %s <= this value <= %s [%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:581
+#, php-format
+msgid "%s Please input in the following format:NAME<XXX@XXX.XXX>"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:587
+msgid "The time setting is out of range."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:590
+msgid ""
+"The reservation may be overlapping with another reservation. Please perform "
+"the operation again after refreshing the display."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:593
+msgid "The process will be terminated for an unexpected error has occurred."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:596
+#, php-format
+msgid "There is a problem with the data.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:599
+#, php-format
+msgid "Database error has occurred.[%s][%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:602
+#, php-format
+msgid "File error[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:605
+msgid "There is no target data."
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:608
+#, php-format
+msgid "An error occurred in the mail sending operation.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:614
+#, php-format
+msgid ""
+"This reservation has been updated by another operation. Please perform the "
+"operation again after refreshing the display.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:617
+#, php-format
+msgid "This reservation does not exist.[%s]"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:620
+msgid "This message is not found"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:699
+#: resource-calendar/src/page/resource-calendar-page.php:1770
+#: resource-calendar/src/page/resource-edit.php:29
+msgid "(?<month>\\d{1,2})[\\/\\.\\-](?<day>\\d{1,2})[\\/\\.\\-](?<year>\\d{4})"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:700
+#: resource-calendar/src/page/resource-calendar-page.php:1771
+#: resource-calendar/src/page/resource-edit.php:30
+msgid "(?<month>\\d{2})(?<day>\\d{2})(?<year>\\d{4})"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-calendar-component.php:711
+#: resource-calendar/src/data/resource-calendar-data.php:90
+#: resource-calendar/src/data/resource-calendar-data.php:91
+#: resource-calendar/src/page/bookingfront-page.php:458
+#: resource-calendar/src/page/bookingfront-page.php:514
+#: resource-calendar/src/page/bookingfront-page.php:631
+#: resource-calendar/src/page/bookingfront-page.php:833
+#: resource-calendar/src/page/bookingfront-page.php:869
+#: resource-calendar/src/page/bookingfront-page.php:888
+#: resource-calendar/src/page/resource-calendar-page.php:726
+msgid "%m/%d/%Y"
+msgstr ""
+
+#: resource-calendar/src/comp/resource-component.php:92
+#: resource-calendar/src/comp/resource-component.php:95
+msgid "PHOTO IMAGE CAN'T COPY"
+msgstr ""
+
+#: resource-calendar/src/comp/search-component.php:15
+#: resource-calendar/src/page/resource-calendar-page.php:800
+msgid "close"
+msgstr ""
+
+#: resource-calendar/src/comp/search-component.php:21
+#: resource-calendar/src/page/resource-calendar-page.php:2332
+msgid "No"
+msgstr ""
+
+#: resource-calendar/src/comp/search-component.php:22
+#: resource-calendar/src/page/confirm-page.php:65
+msgid "name"
+msgstr ""
+
+#: resource-calendar/src/comp/search-component.php:25
+msgid "mail"
+msgstr ""
+
+#: resource-calendar/src/control/resource-calendar-control.php:47
+msgid "invalid request"
+msgstr ""
+
+#: resource-calendar/src/control/resource-calendar-control.php:54
+msgid "no class file"
+msgstr ""
+
+#: resource-calendar/src/control/resource-calendar-control.php:57
+msgid "no class "
+msgstr ""
+
+#: resource-calendar/src/data/booking-data.php:46
+#: resource-calendar/src/data/booking-data.php:47
+#: resource-calendar/src/data/config-data.php:22
+#: resource-calendar/src/data/log-data.php:21
+#: resource-calendar/src/data/resource-calendar-data.php:152
+#: resource-calendar/src/data/resource-calendar-data.php:159
+#: resource-calendar/src/data/resource-calendar-data.php:160
+#: resource-calendar/src/page/booking-edit.php:304
+#: resource-calendar/src/page/config-edit.php:89
+#, php-format
+msgid "%%m/%%d/%%Y"
+msgstr ""
+
+#: resource-calendar/src/data/booking-data.php:612
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s.(1) "
+msgstr ""
+
+#: resource-calendar/src/data/booking-data.php:612
+#: resource-calendar/src/data/booking-data.php:641
+msgid "[Screen of Booking]"
+msgstr ""
+
+#: resource-calendar/src/data/booking-data.php:641
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s.(2) "
+msgstr ""
+
+#: resource-calendar/src/data/category-data.php:78
+msgid "Radio Button"
+msgstr ""
+
+#: resource-calendar/src/data/category-data.php:79
+msgid "Check Box"
+msgstr ""
+
+#: resource-calendar/src/data/category-data.php:81
+msgid "Select Box"
+msgstr ""
+
+#: resource-calendar/src/data/config-data.php:20
+#: resource-calendar/src/page/config-edit.php:96
+#: resource-calendar/src/page/config-page.php:400
+msgid "Special holiday"
+msgstr ""
+
+#: resource-calendar/src/data/config-data.php:21
+#: resource-calendar/src/page/config-edit.php:97
+#: resource-calendar/src/page/config-page.php:399
+#: resource-calendar/src/page/resource-calendar-page.php:770
+msgid "Business day"
+msgstr ""
+
+#: resource-calendar/src/data/confirm-data.php:40
+#, php-format
+msgid ""
+"\n"
+"Canceled by %s. "
+msgstr ""
+
+#: resource-calendar/src/data/confirm-data.php:40
+msgid "[Screen of Confirm]"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:34
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Please confirm this reservation.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"Click the following URL\n"
+"{X-URL}\n"
+"\n"
+"{X-NAME}\n"
+"{X-ADDRESS}\n"
+"{X-TEL}\n"
+"{X-MAIL}"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:35
+msgid ""
+"Confirm this reservation.\n"
+"\n"
+"Customer Name:{X-TO_NAME}\n"
+"Status:{X-TO_STATUS}\n"
+"Resource:{X-TO_RESOURCE}\n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:36
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Thank you for the reservation.\n"
+"Your reservation was confirmed.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"{X-NAME}\n"
+"{X-ADDRESS}\n"
+"{X-TEL}\n"
+"{X-MAIL}"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:37
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Thank you for the reservation.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"Please note that your reservation is not complete until confirmed by the "
+"admin,\n"
+"\n"
+"{X-NAME}\n"
+"{X-ADDRESS}\n"
+"{X-TEL}\n"
+"{X-MAIL}"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:38
+msgid ""
+"The reservation was updated.\n"
+"\n"
+"Status:{X-TO_STATUS}  \n"
+"Customer Name:{X-TO_NAME} \n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:39
+msgid ""
+"Dear {X-TO_NAME} \n"
+"\n"
+"Your reservation was canceled.\n"
+"\n"
+"Resource:{X-TO_RESOURCE} \n"
+"Time:{X-TO_TIME}\n"
+"{X-TO_REPEAT_INF}\n"
+"Remark:{X-TO_REMARK}\n"
+"\n"
+"{X-NAME}\n"
+"{X-ADDRESS}\n"
+"{X-TEL}\n"
+"{X-MAIL}"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:40
+msgid "Confirm Reservation"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:41
+msgid "Confirm Reservation(Admin)"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:42
+msgid "Your reservation was comfirmed"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:43
+msgid "Thank you for the reservation"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:44
+msgid "Information of the reservation"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:45
+msgid "Your reservation was canceled"
+msgstr ""
+
+#: resource-calendar/src/data/resource-calendar-data.php:144
+msgid "No name"
+msgstr ""
+
+#: resource-calendar/src/data/resource-data.php:125
+msgid "Input time unit"
+msgstr ""
+
+#: resource-calendar/src/data/resource-data.php:126
+msgid "Input pre-determined time frames"
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:146
+msgid "Check reserved time "
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:154
+#: resource-calendar/src/page/resource-calendar-page.php:727
+#, php-format
+msgid "Your reservation is possible from %s."
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:154
+msgid "m/d/Y"
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:159
+#: resource-calendar/src/page/booking-edit.php:176
+#, php-format
+msgid "The future times can not reserved. please less than %s days "
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:170
+msgid "Check repeat starts or ends "
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:199
+#: resource-calendar/src/page/resource-calendar-page.php:1250
+msgid "Starts on"
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:208
+msgid "Ends on"
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:223
+msgid "The reservation is compledted"
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:229
+msgid ""
+"The reservation has not yet been completed. A Reservation Complete mail will "
+"be sent after an administrator has confirmed it."
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:235
+#: resource-calendar/src/page/booking-edit.php:242
+msgid ""
+"The reservation has not yet been completed. Please open“Confirm Reservation "
+"Screen”from the mail which was sent and confirm the reservation."
+msgstr ""
+
+#: resource-calendar/src/page/booking-edit.php:313
+msgid ""
+"But When the day meets the conditions for Repeat and there is already a "
+"registered reservation, the registered reservation will be given precedence. "
+"The message which will be displayed in such cases is shown below."
+msgstr ""
+
+#: resource-calendar/src/page/booking-get-reservation.php:46
+msgid "Date is out of ranges."
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:117
+msgid "Search"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:178
+#: resource-calendar/src/page/resource-calendar-page.php:770
+#: resource-calendar/src/page/resource-calendar-page.php:886
+msgid "Holiday"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:236
+#: resource-calendar/src/page/resource-calendar-page.php:807
+#: resource-calendar/src/page/resource-calendar-page.php:808
+msgid "\"Sun\",\"Mon\",\"Tue\",\"Wed\",\"Thu\",\"Fri\",\"Sat\""
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:251
+#: resource-calendar/src/page/bookingfront-page.php:1416
+msgid "Completed Reservations"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:254
+#: resource-calendar/src/page/bookingfront-page.php:1419
+msgid "Temporary Reservations"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:429
+msgid "Edit recurring event"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:434
+msgid "Only"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:438
+msgid "All"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:442
+msgid "Cancel"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:488
+msgid "weeks"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:490
+msgid "days"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:493
+msgid "months"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:496
+msgid "years"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:598
+msgid "This reservation delete ?"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:623
+#: resource-calendar/src/page/bookingfront-page.php:1630
+#: resource-calendar/src/page/resource-calendar-page.php:480
+#: resource-calendar/src/page/resource-calendar-page.php:1191
+msgid "select please"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:995
+msgid "Reservation Update"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1473
+msgid "Register"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1538
+msgid "Settings here"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1539
+msgid "Logout here"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1541
+msgid "Please try settings."
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1542
+msgid "Login"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1543
+msgid "Username"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1544
+msgid "Password"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1554
+#: resource-calendar/src/page/resource-calendar-page.php:1233
+msgid "MM/DD/YYYY"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1560
+msgid "Today"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1611
+#: resource-calendar/src/page/config-page.php:97
+#: resource-calendar/src/page/resource-calendar-page.php:1232
+#: resource-calendar/src/page/resource-calendar-page.php:1391
+msgid "Date"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1615
+msgid "Status"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1649
+msgid "TargetTime"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1711
+#: resource-calendar/src/page/resource-calendar-page.php:1244
+msgid "Repeats"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1714
+msgid "Daily"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1715
+msgid "Weekly"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1716
+msgid "Monthly"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1717
+msgid "Yearly"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1723
+#: resource-calendar/src/page/resource-calendar-page.php:1262
+msgid "Repeat every"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1737
+#: resource-calendar/src/page/resource-calendar-page.php:1268
+msgid "Repeat on"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "sun"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "mon"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "tue"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "wed"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "thr"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "fri"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1741
+#: resource-calendar/src/page/resource-calendar-page.php:1062
+msgid "sat"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1752
+#: resource-calendar/src/page/resource-calendar-page.php:1256
+#: resource-calendar/src/page/resource-calendar-page.php:1274
+msgid "Ends"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1755
+msgid "After"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1756
+msgid "occurrences"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1765
+msgid "On"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1779
+msgid "Booking Cancel"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1780
+msgid "Close"
+msgstr ""
+
+#: resource-calendar/src/page/bookingfront-page.php:1792
+msgid "Change only this reservation, or all reservations in the series ?"
+msgstr ""
+
+#: resource-calendar/src/page/category-page.php:102
+#: resource-calendar/src/page/log-page.php:48
+#: resource-calendar/src/page/log-page.php:107
+#: resource-calendar/src/page/resource-calendar-page.php:234
+#: resource-calendar/src/page/resource-page.php:267
+msgid "Hide Details"
+msgstr ""
+
+#: resource-calendar/src/page/category-page.php:189
+#: resource-calendar/src/page/config-page.php:401
+#: resource-calendar/src/page/resource-page.php:467
+#: resource-calendar/src/page/resource-page.php:484
+msgid "Add"
+msgstr ""
+
+#: resource-calendar/src/page/category-page.php:190
+#: resource-calendar/src/page/config-page.php:348
+#: resource-calendar/src/page/resource-page.php:468
+#: resource-calendar/src/page/resource-page.php:486
+msgid "Update"
+msgstr ""
+
+#: resource-calendar/src/page/category-page.php:191
+#: resource-calendar/src/page/resource-page.php:469
+msgid "Clear"
+msgstr ""
+
+#: resource-calendar/src/page/category-page.php:199
+msgid "please select"
+msgstr ""
+
+#: resource-calendar/src/page/config-edit.php:38
+#: resource-calendar/src/page/resource-calendar-page.php:1331
+msgid "Open Time"
+msgstr ""
+
+#: resource-calendar/src/page/config-edit.php:38
+#: resource-calendar/src/page/resource-calendar-page.php:1337
+msgid "Close Time"
+msgstr ""
+
+#: resource-calendar/src/page/config-edit.php:60
+#: resource-calendar/src/page/resource-calendar-page.php:1075
+#: resource-calendar/tests/21adminError/config-error01Test.php:163
+msgid " Detailed time schedule of "
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:98
+#: resource-calendar/src/page/resource-calendar-page.php:1351
+msgid "Irregular business days and holidays"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:345
+msgid "Environment settings"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:370
+msgid "Anyone"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:371
+msgid "Registered user"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:377
+msgid "Confirmation by an administrator"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:378
+msgid "No confirm"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:379
+msgid "Confirmation via user mail"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:387
+msgid "Minute"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:388
+msgid "Hour"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:389
+msgid "Day"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:411
+#: resource-calendar/src/page/resource-calendar-page.php:1196
+#: resource-calendar/src/page/resource-calendar-page.php:1442
+msgid "Name"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:412
+#: resource-calendar/src/page/resource-calendar-page.php:1207
+msgid "Tel"
+msgstr ""
+
+#: resource-calendar/src/page/config-page.php:413
+#: resource-calendar/src/page/resource-calendar-page.php:1214
+msgid "Mail"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-edit.php:62
+msgid "reservation deleted"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:66
+msgid "reserved day"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:67
+msgid "reserved menu"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:68
+#: resource-calendar/src/page/resource-calendar-page.php:1634
+msgid "Remark"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:69
+msgid "status"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:78
+msgid "Create Reservation"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:79
+#: resource-calendar/src/page/confirm-page.php:84
+#: resource-calendar/src/page/confirm-page.php:121
+msgid "Cancel Reservation"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:80
+msgid "Reservation Completed ?"
+msgstr ""
+
+#: resource-calendar/src/page/confirm-page.php:98
+msgid "Are you sure you want to cancel the reservation?"
+msgstr ""
+
+#: resource-calendar/src/page/log-page.php:49
+#: resource-calendar/src/page/log-page.php:53
+#: resource-calendar/src/page/resource-calendar-page.php:233
+msgid "Show Details"
+msgstr ""
+
+#: resource-calendar/src/page/log-page.php:135
+msgid "Redisplay"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:147
+msgid "Mail Settings"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:150
+msgid "update"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:158
+msgid "Confirmation mail"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:159
+#: resource-calendar/src/page/resource-calendar-page.php:1555
+msgid "Confirmation mail (admin)"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:160
+#: resource-calendar/src/page/resource-calendar-page.php:1556
+msgid "Reservation complete mail"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:161
+#: resource-calendar/src/page/resource-calendar-page.php:1558
+msgid "Reservation canceled mail"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:162
+#: resource-calendar/src/page/resource-calendar-page.php:1557
+msgid "Reservation receipt mail"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:163
+msgid "Notification mail to staff"
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:167
+msgid "Confirmation mail "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:168
+msgid ""
+"Mail valid when \"Confirmation via user mail\" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"user who made the reservation."
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:169
+msgid "Confirmation mail (admin) "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:170
+msgid ""
+"Mail valid when \"Confirmation by an administrator \" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"person with WordPress administrator privileges."
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:171
+msgid "Reservation complete mail "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:172
+#: resource-calendar/src/page/mail-page.php:174
+msgid "Content is for the mail sent to the user. "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:173
+msgid "Reservation canceled mail "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:175
+msgid "Reservation receipt mail "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:176
+msgid ""
+"Mail valid when \"Confirmation by an administrator \" is selected as the "
+"\"Reservation confirmation method\". Content is for the mail sent to the "
+"user. "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:177
+msgid "Notification mail to staff "
+msgstr ""
+
+#: resource-calendar/src/page/mail-page.php:178
+msgid ""
+"Mail content sent to the address set for \"Notification mail recipient\". "
+"Sent when reservation is registered, updated, or canceled."
+msgstr ""
+
+#: resource-calendar/src/page/photo-edit.php:34
+msgid "FILE TYPE ERROR(1)"
+msgstr ""
+
+#: resource-calendar/src/page/photo-edit.php:37
+msgid "FILE MAX SIZE ERROR("
+msgstr ""
+
+#: resource-calendar/src/page/photo-edit.php:42
+msgid "FILE TYPE ERROR(2)"
+msgstr ""
+
+#: resource-calendar/src/page/photo-edit.php:47
+msgid "FILE TYPE ERROR(3)"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:98
+msgid ""
+"There is an inconsistency between the set \\\"Input time unit\\\" and \\"
+"\"Open/Close time\\\"."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:269
+msgid "Display _MENU_ records per page"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:270
+msgid "Next Page"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:271
+msgid "Prev Page"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:272
+msgid "Showing _START_ to _END_ of _TOTAL_ records"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:273
+msgid "search"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:274
+msgid "No data available in table"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:275
+msgid "Loading..."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:276
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:277
+msgid "No matching records found"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:327
+#: resource-calendar/src/page/resource-calendar-page.php:1413
+msgid "Operation"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:365
+msgid "change"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:366
+msgid "cancel"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:367
+msgid "click edit"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:432
+#: resource-calendar/src/page/resource-page.php:209
+msgid "Delete "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:433
+msgid "Delete ok?"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:691
+#: resource-calendar/src/page/resource-calendar-page.php:1880
+msgid "(\\d{1,2})[\\/\\.\\-](\\d{1,2})[\\/\\.\\-](\\d{4})"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:691
+#: resource-calendar/src/page/resource-calendar-page.php:1880
+msgid "(\\d{2})(\\d{2})(\\d{4})"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:692
+#: resource-calendar/src/page/resource-calendar-page.php:1881
+msgid "RegExp.$3"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:693
+#: resource-calendar/src/page/resource-calendar-page.php:1882
+msgid "RegExp.$1"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:694
+#: resource-calendar/src/page/resource-calendar-page.php:1883
+msgid "RegExp.$2"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:698
+#: resource-calendar/src/page/resource-calendar-page.php:1887
+msgid "this day not exist?"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:801
+msgid "prevText: \"&#x3C;\""
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:802
+msgid "nextText: \"&#x3E;\""
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:803
+msgid "today"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:804
+#: resource-calendar/src/page/resource-calendar-page.php:805
+msgid ""
+"\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct"
+"\",\"Nov\",\"Dec\""
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:809
+msgid "week"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:810
+msgid "mm/dd/yy"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:815
+msgid "yearSuffix:\"\" "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:883
+msgid "Half-holiday"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1075
+msgid "is on Holiday"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1197
+#: resource-calendar/src/page/resource-calendar-page.php:1963
+msgid "space input between first-name and last-name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1208
+#: resource-calendar/src/page/resource-calendar-page.php:1846
+msgid "Please input in 15 characters or less."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1215
+msgid "The allowed formats for \"XXX@XXX.XXX\""
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1220
+msgid "Start"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1226
+msgid "End"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1239
+#: resource-calendar/src/page/resource-calendar-page.php:1251
+#: resource-calendar/src/page/resource-calendar-page.php:1257
+#: resource-calendar/src/page/resource-calendar-page.php:1891
+msgid "please MM/DD/YYYY or MMDDYYYY format"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1245
+msgid ""
+"please select. Week repeats will be repeated with the start of the week "
+"(Sunday) as the starting point."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1282
+msgid "Seq"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1293
+msgid "Setting the reservation time"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1294
+msgid ""
+"\\\"Input time unit\\\" -> Setting for allowing the user to input a time.\\"
+"\"Input pre-determined time frames\\\" -> The user is able to select from "
+"time frames decided by the administrator. Selecting this item displays the "
+"following input selections. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1299
+msgid "Management target name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1300
+msgid ""
+"Set the name of the management target, such as \\\"Equipment,\\\" \\"
+"\"Resource,\\\" etc. For example, enter \\\"Conference rooms\\\" if managing "
+"reservations for multiple conference rooms. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1306
+msgid "Selection item name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1307
+msgid ""
+"The name of the item selected by the user. For example, set \\\"Morning 1\\"
+"\" and \\\"Morning 2\\\" to break the morning into two time frames (10:00 – "
+"11:00 and 11:00 – 12:00)"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1314
+msgid "Your address"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1315
+msgid "Please input in 300 characters or less. Embedded when an mail is sent. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1320
+msgid "Contact telephone number"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1321
+msgid "Please input in 15 characters or less. Embedded when an mail is sent. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1324
+msgid "Contact mail"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1325
+msgid ""
+"The allowed formats for \\\"XXX@XXX.XXX\\\". Embedded when an mail is sent. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1332
+#: resource-calendar/src/page/resource-calendar-page.php:1338
+msgid ""
+"The allowed formats for \\\"HH:MM\\\" or \\\"HHMM\\\". Set the reservation "
+"handling time for the management target.Input in 24 hour time format."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1339
+msgid ""
+"When \\\"Close time\\\" is later than midnight, set the time by adding the "
+"time past midnight to 24. For example, if you want to handle 6:00PM to "
+"3:00AM the following day, set \\\"Open time\\\" as 18:00 and \\\"Close time\\"
+"\" as 27:00."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1345
+msgid "Input time unit (minutes)"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1346
+msgid ""
+"The unit of selection for time when a user makes a reservation. For example, "
+"setting this to 15 will result in options for 10:00, 10:15, etc. Setting 30 "
+"will result in options for 10:00, 10:30, etc. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1352
+msgid ""
+"After inputting the date, select \\\"Business day\\\" \\\"Special holiday\\"
+"\" and click the \\\"Add\\\" button. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1357
+msgid "Off days"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1358
+msgid ""
+"Specify the day of the week for off days for each week. Settings for special "
+"holidays such as the New Year's holiday or off days that will be treated as "
+"business days are configured \\\"Irregular business days and holidays\\\". "
+"In cases where, for example, Saturdays will be treated as half business "
+"days, checking the off day will display a detailed time schedule to allow "
+"specific settings for that day."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1362
+msgid "Detailed message output"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1363
+msgid ""
+"Check to display detailed error information. Check to acquire information in "
+"the event of a diagnostic request."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1367
+msgid "Sequence of Sur Name and Given Name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1368
+msgid "please select Sur Name First or Given Name first"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1373
+msgid "Before X date"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1374
+#: resource-calendar/src/page/resource-calendar-page.php:1380
+msgid ""
+"Specify the default display range for reservation data. The standard is to "
+"use the access date. Set to a range that reflects actual use (for example, "
+"reservations up to one month or one year) as setting X to a large value can "
+"result in response lag."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1379
+msgid "After X date"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1385
+msgid "Calendar size "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1386
+msgid ""
+"Set the size for the displayed calendars. Up to three are displayed. In some "
+"cases, only one calendar is displayed depending on the theme due to having a "
+"narrow display area.For example, only one can be displayed when themes are "
+"at 100%. Setting to 80% will allow two to be displayed. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1392
+msgid "Logged date "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1402
+msgid "Time"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1403
+msgid "Logged time"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1414
+msgid "the operation to tables"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1424
+#: resource-calendar/src/page/resource-calendar-page.php:1482
+msgid "Remarks"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1425
+msgid "REMOTE_ADDR,REFERER"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1436
+msgid "Reservation cutoff time"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1437
+msgid ""
+"Specify up to when reservations can be made in minutes, hours, or days. "
+"Setting 0 means that the user can cancel or change the reservation up to "
+"immediately prior to the reservation. Setting to 30 minutes means that, for "
+"example, with a 10 o\\’clock appointment, cancellation or changes are "
+"possible up to 9:30."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1443
+msgid ""
+"Please input in 50 characters or less. Set the name of the individual "
+"management target. For example, for reservation management for \\"
+"\"Conference rooms\\\", input the actual conference room name, such as \\"
+"\"Conference Room A\\\", \\\"Conference Room B\\\", etc. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1453
+msgid "Your name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1454
+msgid "Please input in 50 characters or less. Embedded when an mail is sent."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1461
+msgid "Valid period (from) "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1462
+#: resource-calendar/src/page/resource-calendar-page.php:1472
+msgid "Input if the management target has a valid period."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1471
+msgid "Valid period (to)"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1483
+#: resource-calendar/src/page/resource-calendar-page.php:1635
+msgid "Please input in 300 characters or less."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1493
+msgid "Max setting"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1494
+msgid "How many set in the same time"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1499
+msgid "Reservation confirmation method"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1500
+msgid ""
+"\\\"Confirmation by an administrator\\\":At the point that a user makes a "
+"reservation, this is treated as a temporary reservation. The reservation is "
+"confirmed when a person with WordPress administrator privileges updates the "
+"reservation. \\\"No confirm\\\":The reservation is confirmed when made by "
+"the user. \\\"Confirmation via user mail\\\":At the point that a user makes "
+"a reservation, this is treated as a temporary reservation. A link to the "
+"reservation confirmation screen is displayed in the mail sent to the user. "
+"The reservation is confirmed when the user uses the link to open the "
+"reservation confirmation page."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1505
+msgid "Privileges allowing reservations"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1506
+msgid ""
+"\\\"Anyone\\\":Anyone can make a reservation. \\\"Registered user\\\":Only "
+"the user registered WordPress can make a reservation."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1512
+msgid "Mail text"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1513
+#: resource-calendar/src/page/resource-calendar-page.php:1519
+msgid ""
+"Actual values are embedded into the \\\"{}\\\" portion of {X-TO_NAME} "
+"(referred to as \\\"embedded text\\\"). You may delete {X-SHOP_NAME}{X-"
+"SHOP_ADDRESS}{X-SHOP_TEL}{X-SHOP_MAIL} but do not delete any other embedded "
+"text. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1518
+msgid "Mail text to staff member"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1535
+msgid "Mail title"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1536
+#: resource-calendar/src/page/resource-calendar-page.php:1542
+msgid "Please input in 78 characters or less. Title of sent message."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1541
+msgid "The subject of the mail to staff member"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1563
+msgid "Mail header (From) "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1564
+msgid ""
+"Set the mail header FROM section using the format name <XXX@XXX.XXX>. If not "
+"set, then the \\\"WordPress\\\" default is used."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1571
+msgid "Mail header (ReturnPath)"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1572
+msgid ""
+"Set the mail header ReturnPath section using the mail address format(XXX@XXX."
+"XXX). If not set, then the \\\"WordPress\\\" default is used."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1578
+msgid "Mail selection"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1579
+msgid "Select the following mail to set the content for each mail. "
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1585
+msgid "Notification mail recipient"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1586
+msgid ""
+"Set the mail address.If the setting plurality of mail addresses, separated "
+"by commas"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1591
+msgid "Use session id"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1592
+msgid ""
+"If the message \\\"This update may be an invalid request. \\\" is displayed "
+"even though you are simply updating, try unchecking this check box. It is "
+"possible that there is a conflict with another plugin."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1597
+msgid "Use reservation details"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1598
+msgid ""
+"If you want to have additional details input in the target resource, check "
+"this. Updating with this check activated will cause \\\"Set reservation "
+"details\\\" to be displayed on the menu, and the details of the fields you "
+"want to input can be registered. Possible details include the following."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1603
+msgid "Selection of mandatory fields"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1604
+msgid ""
+"To make name, phone number, and mail mandatory fields to input when making a "
+"reservation, check this."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1609
+msgid "Field name"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1610
+msgid "The label of the field to be set."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1619
+msgid "Field type"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1620
+msgid ""
+"The format of the field to be set. You can select from radio button, check "
+"box, text, or select box. If radio button, check box, or select box is "
+"selected, input \\\"field value\\\""
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1629
+msgid "Field value"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1630
+msgid ""
+"If radio button, check box or select box were selected in \\\"Field type\\\" "
+"above, set the display name of each field separated by commas. It is "
+"possible to update the \\\"Field values\\\", but please do not change the "
+"order of the fields or delete them after operation has started. For example, "
+"if you wish to change the number of microphones to 2 after initially "
+"registering equipment to be used as \\\"projector, microphone, whiteboard\\"
+"\", change it to \\\"projector, microphone 1, whiteboard, microphone 2\\\". "
+"Please do not change the order of the fields to \\\"projector, microphone 1, "
+"microphone 2, whiteboard\\\"."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1752
+#: resource-calendar/src/page/resource-calendar-page.php:1837
+msgid "^\\d{5}(?:[-\\s]\\d{4})?$"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1819
+msgid "please enter"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1825
+msgid "please enter numeric"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1832
+msgid "please full width enter"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1838
+msgid "please XXXXX-XXXX format"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1852
+msgid "Please input the mail address in the following format: XXX@XXX.XXX"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1859
+#: resource-calendar/src/page/resource-calendar-page.php:1870
+msgid ""
+"Please either separate the time with a colon (:) or enter it as a 4 digit "
+"number."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1862
+msgid "The maximum time which can be set is 23:59."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1873
+msgid ""
+"The maximum time which can be set is 47:59. Setting the time to 47:59 means "
+"23:59 the following day."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1902
+msgid "within charactors"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1914
+msgid "greater than"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1917
+msgid "within"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1938
+msgid "select one or more"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1954
+msgid "please check"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1971
+msgid "up"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:1972
+msgid "down"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:2420
+msgid "(1) Please copy and paste this tag to insert to the page"
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:2421
+msgid ""
+"(2) After installing, \"Reservation Confirm\" is added to \"Pages\".Do not "
+"delete this. You may change the title."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:2422
+msgid "(3) The “Reservation Confirm” is not displayed in the front screen."
+msgstr ""
+
+#: resource-calendar/src/page/resource-calendar-page.php:2423
+msgid ""
+"(4) Sample data has been registered. It is a good idea to first use the "
+"sample data."
+msgstr ""
+
+#: resource-calendar/src/page/resource-edit.php:63
+msgid "from >= to "
+msgstr ""
+
+#: resource-calendar/src/page/resource-edit.php:78
+msgid "overlaped time "
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:114
+msgid "FILE TYPE ERROR"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:122
+msgid "Drop files here to upload"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:123
+msgid "File is too big ({{filesize}}MB). Max filesize: {{maxFilesize}}MB."
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:124
+msgid "You can't upload files of this type."
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:125
+msgid "Delete"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:126
+msgid "Your browser does not support drag&drop file uploads."
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:127
+msgid "You can only upload {{maxFiles}} files."
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:236
+msgid ""
+"Photo data has been uploaded or deleted, but no addition/update has been "
+"conducted. Do you want to continue?"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:367
+msgid "Original select data is empty"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:451
+msgid "Photos<br> Drop files here or click here and select files"
+msgstr ""
+
+#: resource-calendar/src/page/resource-page.php:481
+msgid "Selected time"
+msgstr ""
